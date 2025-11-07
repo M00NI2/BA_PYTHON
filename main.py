@@ -44,7 +44,7 @@ def analyze_single_row(row):
     asldB, activityFactor, duration = VAD.P56_fileAnalysis(filepath)
     loudness = SRVT.fileLoudness(filepath)
     band = SRVT.fileFreqBandRelative(filepath)
-    snr = SNR.cal_snr(filepath)
+    snr_db = SNR.cal_snr(filepath)
 
     return {
         "File_Name": row.File_Name,
@@ -55,7 +55,7 @@ def analyze_single_row(row):
         "Duration": duration,
         "Loudness": loudness,
         "Bandwidth": band,
-        "SNR": snr,
+        "SNR": snr_db,
     }
 
 
