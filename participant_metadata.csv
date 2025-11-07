@@ -1,0 +1,946 @@
+Participant_ID;Gender;Condition;Device;Sentence;File_Name;Remarks
+P00;M;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S01;P00_M_C1_Smartphone_S01.wav;
+P00;M;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S02;P00_M_C1_Smartphone_S02.wav;
+P00;M;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S03;P00_M_C1_Smartphone_S03.wav;
+P00;M;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S04;P00_M_C1_Smartphone_S04.wav;
+P00;M;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S05;P00_M_C1_Smartphone_S05.wav;
+P00;M;In the lab TV noise;Smartphone (iPhone 11 Pro);S01;P00_M_C2_Smartphone_S01.wav;
+P00;M;In the lab TV noise;Smartphone (iPhone 11 Pro);S02;P00_M_C2_Smartphone_S02.wav;
+P00;M;In the lab TV noise;Smartphone (iPhone 11 Pro);S03;P00_M_C2_Smartphone_S03.wav;
+P00;M;In the lab TV noise;Smartphone (iPhone 11 Pro);S04;P00_M_C2_Smartphone_S04.wav;
+P00;M;In the lab TV noise;Smartphone (iPhone 11 Pro);S05;P00_M_C2_Smartphone_S05.wav;
+P00;M;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S01;P00_M_C3_Laptop_S01.wav;
+P00;M;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S02;P00_M_C3_Laptop_S02.wav;
+P00;M;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S03;P00_M_C3_Laptop_S03.wav;
+P00;M;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S04;P00_M_C3_Laptop_S04.wav;
+P00;M;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S05;P00_M_C3_Laptop_S05.wav;
+P00;M;In the lab open door;AirPods;S01;P00_M_C4_AirPods_S01.wav;connected to laptop
+P00;M;In the lab open door;AirPods;S02;P00_M_C4_AirPods_S02.wav;connected to laptop
+P00;M;In the lab open door;AirPods;S03;P00_M_C4_AirPods_S03.wav;connected to laptop
+P00;M;In the lab open door;AirPods;S04;P00_M_C4_AirPods_S04.wav;connected to laptop
+P00;M;In the lab open door;AirPods;S05;P00_M_C4_AirPods_S05.wav;connected to laptop
+P00;M;In the lab office;Laptop (Lenovo ThinkPad X1 Carbon);S01;P00_M_C5_Laptop_S01.wav;
+P00;M;In the lab office;Laptop (Lenovo ThinkPad X1 Carbon);S02;P00_M_C5_Laptop_S02.wav;
+P00;M;In the lab office;Laptop (Lenovo ThinkPad X1 Carbon);S03;P00_M_C5_Laptop_S03.wav;
+P00;M;In the lab office;Laptop (Lenovo ThinkPad X1 Carbon);S04;P00_M_C5_Laptop_S04.wav;
+P00;M;In the lab office;Laptop (Lenovo ThinkPad X1 Carbon);S05;P00_M_C5_Laptop_S05.wav;
+P00;M;In front of MAR;Smartphone (iPhone 11 Pro);S01;P00_M_C6_Smartphone_S01.wav;wind_noise
+P00;M;In front of MAR;Smartphone (iPhone 11 Pro);S02;P00_M_C6_Smartphone_S02.wav;wind_noise
+P00;M;In front of MAR;Smartphone (iPhone 11 Pro);S03;P00_M_C6_Smartphone_S03.wav;wind_noise
+P00;M;In front of MAR;Smartphone (iPhone 11 Pro);S04;P00_M_C6_Smartphone_S04.wav;wind_noise
+P00;M;In front of MAR;Smartphone (iPhone 11 Pro);S05;P00_M_C6_Smartphone_S05.wav;wind_noise
+P00;M;Campus;AirPods;S01;P00_M_C7_AirPods_S01.wav;wind_noise
+P00;M;Campus;AirPods;S02;P00_M_C7_AirPods_S02.wav;wind_noise
+P00;M;Campus;AirPods;S03;P00_M_C7_AirPods_S03.wav;wind_noise
+P00;M;Campus;AirPods;S04;P00_M_C7_AirPods_S04.wav;wind_noise
+P00;M;Campus;AirPods;S05;P00_M_C7_AirPods_S05.wav;wind_noise
+P00;M;U-Bhf;Smartphone (iPhone 11 Pro);S01;P00_M_C8_Smartphone_S01.wav;
+P00;M;U-Bhf;Smartphone (iPhone 11 Pro);S02;P00_M_C8_Smartphone_S02.wav;
+P00;M;U-Bhf;Smartphone (iPhone 11 Pro);S03;P00_M_C8_Smartphone_S03.wav;
+P00;M;U-Bhf;Smartphone (iPhone 11 Pro);S04;P00_M_C8_Smartphone_S04.wav;
+P00;M;U-Bhf;Smartphone (iPhone 11 Pro);S05;P00_M_C8_Smartphone_S05.wav;
+P00;M;Mensa;AirPods;S01;P00_M_C9_AirPods_S01.wav;
+P00;M;Mensa;AirPods;S02;P00_M_C9_AirPods_S02.wav;
+P00;M;Mensa;AirPods;S03;P00_M_C9_AirPods_S03.wav;
+P00;M;Mensa;AirPods;S04;P00_M_C9_AirPods_S04.wav;
+P00;M;Mensa;AirPods;S05;P00_M_C9_AirPods_S05.wav;
+P01;F;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S01;P01_F_C1_Laptop_S01.wav;
+P01;F;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S02;P01_F_C1_Laptop_S02.wav;
+P01;F;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S03;P01_F_C1_Laptop_S03.wav;
+P01;F;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S04;P01_F_C1_Laptop_S04.wav;
+P01;F;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S05;P01_F_C1_Laptop_S05.wav;
+P01;F;In the lab TV noise;AirPods;S01;P01_F_C2_AirPods_S01.wav;connected to laptop
+P01;F;In the lab TV noise;AirPods;S02;P01_F_C2_AirPods_S02.wav;connected to laptop
+P01;F;In the lab TV noise;AirPods;S03;P01_F_C2_AirPods_S03.wav;connected to laptop
+P01;F;In the lab TV noise;AirPods;S04;P01_F_C2_AirPods_S04.wav;connected to laptop
+P01;F;In the lab TV noise;AirPods;S05;P01_F_C2_AirPods_S05.wav;connected to laptop
+P01;F;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S01;P01_F_C3_Laptop_S01.wav;
+P01;F;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S02;P01_F_C3_Laptop_S02.wav;
+P01;F;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S03;P01_F_C3_Laptop_S03.wav;
+P01;F;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S04;P01_F_C3_Laptop_S04.wav;
+P01;F;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S05;P01_F_C3_Laptop_S05.wav;
+P01;F;In the lab open door;Laptop (Lenovo ThinkPad X1 Carbon);S01;P01_F_C4_Laptop_S01.wav;
+P01;F;In the lab open door;Laptop (Lenovo ThinkPad X1 Carbon);S02;P01_F_C4_Laptop_S02.wav;
+P01;F;In the lab open door;Laptop (Lenovo ThinkPad X1 Carbon);S03;P01_F_C4_Laptop_S03.wav;
+P01;F;In the lab open door;Laptop (Lenovo ThinkPad X1 Carbon);S04;P01_F_C4_Laptop_S04.wav;
+P01;F;In the lab open door;Laptop (Lenovo ThinkPad X1 Carbon);S05;P01_F_C4_Laptop_S05.wav;
+P01;F;In the lab office;AirPods;S01;P01_F_C5_AirPods_S01.wav;connected to laptop
+P01;F;In the lab office;AirPods;S02;P01_F_C5_AirPods_S02.wav;connected to laptop
+P01;F;In the lab office;AirPods;S03;P01_F_C5_AirPods_S03.wav;connected to laptop
+P01;F;In the lab office;AirPods;S04;P01_F_C5_AirPods_S04.wav;connected to laptop
+P01;F;In the lab office;AirPods;S05;P01_F_C5_AirPods_S05.wav;connected to laptop
+P01;F;In front of MAR;Smartphone (iPhone 11 Pro);S01;P01_F_C6_Smartphone_S01.wav;
+P01;F;In front of MAR;Smartphone (iPhone 11 Pro);S02;P01_F_C6_Smartphone_S02.wav;
+P01;F;In front of MAR;Smartphone (iPhone 11 Pro);S03;P01_F_C6_Smartphone_S03.wav;
+P01;F;In front of MAR;Smartphone (iPhone 11 Pro);S04;P01_F_C6_Smartphone_S04.wav;
+P01;F;In front of MAR;Smartphone (iPhone 11 Pro);S05;P01_F_C6_Smartphone_S05.wav;
+P01;F;Campus;Smartphone (iPhone 11 Pro);S01;P01_F_C7_Smartphone_S01.wav;
+P01;F;Campus;Smartphone (iPhone 11 Pro);S02;P01_F_C7_Smartphone_S02.wav;
+P01;F;Campus;Smartphone (iPhone 11 Pro);S03;P01_F_C7_Smartphone_S03.wav;
+P01;F;Campus;Smartphone (iPhone 11 Pro);S04;P01_F_C7_Smartphone_S04.wav;
+P01;F;Campus;Smartphone (iPhone 11 Pro);S05;P01_F_C7_Smartphone_S05.wav;
+P01;F;U-Bhf;AirPods;S01;P01_F_C8_AirPods_S01.wav;
+P01;F;U-Bhf;AirPods;S02;P01_F_C8_AirPods_S02.wav;
+P01;F;U-Bhf;AirPods;S03;P01_F_C8_AirPods_S03.wav;
+P01;F;U-Bhf;AirPods;S04;P01_F_C8_AirPods_S04.wav;
+P01;F;U-Bhf;AirPods;S05;P01_F_C8_AirPods_S05.wav;
+P01;F;Mensa;Smartphone (iPhone 11 Pro);S01;P01_F_C9_Smartphone_S01.wav;
+P01;F;Mensa;Smartphone (iPhone 11 Pro);S02;P01_F_C9_Smartphone_S02.wav;
+P01;F;Mensa;Smartphone (iPhone 11 Pro);S03;P01_F_C9_Smartphone_S03.wav;
+P01;F;Mensa;Smartphone (iPhone 11 Pro);S04;P01_F_C9_Smartphone_S04.wav;
+P01;F;Mensa;Smartphone (iPhone 11 Pro);S05;P01_F_C9_Smartphone_S05.wav;
+P02;M;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S01;P02_M_C1_Smartphone_S01.wav;
+P02;M;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S02;P02_M_C1_Smartphone_S02.wav;
+P02;M;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S03;P02_M_C1_Smartphone_S03.wav;
+P02;M;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S04;P02_M_C1_Smartphone_S04.wav;
+P02;M;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S05;P02_M_C1_Smartphone_S05.wav;
+P02;M;In the lab TV noise;Laptop (Lenovo ThinkPad X1 Carbon);S01;P02_M_C2_Laptop_S01.wav;
+P02;M;In the lab TV noise;Laptop (Lenovo ThinkPad X1 Carbon);S02;P02_M_C2_Laptop_S02.wav;
+P02;M;In the lab TV noise;Laptop (Lenovo ThinkPad X1 Carbon);S03;P02_M_C2_Laptop_S03.wav;
+P02;M;In the lab TV noise;Laptop (Lenovo ThinkPad X1 Carbon);S04;P02_M_C2_Laptop_S04.wav;
+P02;M;In the lab TV noise;Laptop (Lenovo ThinkPad X1 Carbon);S05;P02_M_C2_Laptop_S05.wav;
+P02;M;In the lab open windows;Smartphone (iPhone 11 Pro);S01;P02_M_C3_Smartphone_S01.wav;
+P02;M;In the lab open windows;Smartphone (iPhone 11 Pro);S02;P02_M_C3_Smartphone_S02.wav;
+P02;M;In the lab open windows;Smartphone (iPhone 11 Pro);S03;P02_M_C3_Smartphone_S03.wav;
+P02;M;In the lab open windows;Smartphone (iPhone 11 Pro);S04;P02_M_C3_Smartphone_S04.wav;
+P02;M;In the lab open windows;Smartphone (iPhone 11 Pro);S05;P02_M_C3_Smartphone_S05.wav;
+P02;M;In the lab open door;Laptop (Lenovo ThinkPad X1 Carbon);S01;P02_M_C4_Laptop_S01.wav;
+P02;M;In the lab open door;Laptop (Lenovo ThinkPad X1 Carbon);S02;P02_M_C4_Laptop_S02.wav;
+P02;M;In the lab open door;Laptop (Lenovo ThinkPad X1 Carbon);S03;P02_M_C4_Laptop_S03.wav;
+P02;M;In the lab open door;Laptop (Lenovo ThinkPad X1 Carbon);S04;P02_M_C4_Laptop_S04.wav;
+P02;M;In the lab open door;Laptop (Lenovo ThinkPad X1 Carbon);S05;P02_M_C4_Laptop_S05.wav;
+P02;M;In the lab office;Smartphone (iPhone 11 Pro);S01;P02_M_C5_Smartphone_S01.wav;
+P02;M;In the lab office;Smartphone (iPhone 11 Pro);S02;P02_M_C5_Smartphone_S02.wav;
+P02;M;In the lab office;Smartphone (iPhone 11 Pro);S03;P02_M_C5_Smartphone_S03.wav;
+P02;M;In the lab office;Smartphone (iPhone 11 Pro);S04;P02_M_C5_Smartphone_S04.wav;
+P02;M;In the lab office;Smartphone (iPhone 11 Pro);S05;P02_M_C5_Smartphone_S05.wav;
+P02;M;In front of MAR;Smartphone (iPhone 11 Pro);S01;P02_M_C6_Smartphone_S01.wav;
+P02;M;In front of MAR;Smartphone (iPhone 11 Pro);S02;P02_M_C6_Smartphone_S02.wav;
+P02;M;In front of MAR;Smartphone (iPhone 11 Pro);S03;P02_M_C6_Smartphone_S03.wav;
+P02;M;In front of MAR;Smartphone (iPhone 11 Pro);S04;P02_M_C6_Smartphone_S04.wav;
+P02;M;In front of MAR;Smartphone (iPhone 11 Pro);S05;P02_M_C6_Smartphone_S05.wav;
+P02;M;Campus;Smartphone (iPhone 11 Pro);S01;P02_M_C7_Smartphone_S01.wav;
+P02;M;Campus;Smartphone (iPhone 11 Pro);S02;P02_M_C7_Smartphone_S02.wav;
+P02;M;Campus;Smartphone (iPhone 11 Pro);S03;P02_M_C7_Smartphone_S03.wav;
+P02;M;Campus;Smartphone (iPhone 11 Pro);S04;P02_M_C7_Smartphone_S04.wav;
+P02;M;Campus;Smartphone (iPhone 11 Pro);S05;P02_M_C7_Smartphone_S05.wav;
+P02;M;U-Bhf;Headset (Sennheiser PXC 550);S01;P02_M_C8_Headset_S01.wav;
+P02;M;U-Bhf;Headset (Sennheiser PXC 550);S02;P02_M_C8_Headset_S02.wav;
+P02;M;U-Bhf;Headset (Sennheiser PXC 550);S03;P02_M_C8_Headset_S03.wav;
+P02;M;U-Bhf;Headset (Sennheiser PXC 550);S04;P02_M_C8_Headset_S04.wav;
+P02;M;U-Bhf;Headset (Sennheiser PXC 550);S05;P02_M_C8_Headset_S05.wav;
+P02;M;Mensa;Headset (Sennheiser PXC 550);S01;P02_M_C9_Headset_S01.wav;
+P02;M;Mensa;Headset (Sennheiser PXC 550);S02;P02_M_C9_Headset_S02.wav;
+P02;M;Mensa;Headset (Sennheiser PXC 550);S03;P02_M_C9_Headset_S03.wav;
+P02;M;Mensa;Headset (Sennheiser PXC 550);S04;P02_M_C9_Headset_S04.wav;
+P02;M;Mensa;Headset (Sennheiser PXC 550);S05;P02_M_C9_Headset_S05.wav;
+P03;F;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S01;P03_F_C1_Smartphone_S01.wav;
+P03;F;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S02;P03_F_C1_Smartphone_S02.wav;
+P03;F;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S03;P03_F_C1_Smartphone_S03.wav;
+P03;F;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S04;P03_F_C1_Smartphone_S04.wav;
+P03;F;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S05;P03_F_C1_Smartphone_S05.wav;
+P03;F;In the lab TV noise;AirPods;S01;P03_F_C2_AirPods_S01.wav;
+P03;F;In the lab TV noise;AirPods;S02;P03_F_C2_AirPods_S02.wav;
+P03;F;In the lab TV noise;AirPods;S03;P03_F_C2_AirPods_S03.wav;
+P03;F;In the lab TV noise;AirPods;S04;P03_F_C2_AirPods_S04.wav;
+P03;F;In the lab TV noise;AirPods;S05;P03_F_C2_AirPods_S05.wav;
+P03;F;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S01;P03_F_C3_Laptop_S01.wav;
+P03;F;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S02;P03_F_C3_Laptop_S02.wav;
+P03;F;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S03;P03_F_C3_Laptop_S03.wav;
+P03;F;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S04;P03_F_C3_Laptop_S04.wav;
+P03;F;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S05;P03_F_C3_Laptop_S05.wav;
+P03;F;In the lab open door;AirPods;S01;P03_F_C4_AirPods_S01.wav;
+P03;F;In the lab open door;AirPods;S02;P03_F_C4_AirPods_S02.wav;
+P03;F;In the lab open door;AirPods;S03;P03_F_C4_AirPods_S03.wav;
+P03;F;In the lab open door;AirPods;S04;P03_F_C4_AirPods_S04.wav;
+P03;F;In the lab open door;AirPods;S05;P03_F_C4_AirPods_S05.wav;
+P03;F;In the lab office;Laptop (Lenovo ThinkPad X1 Carbon);S01;P03_F_C5_Laptop_S01.wav;
+P03;F;In the lab office;Laptop (Lenovo ThinkPad X1 Carbon);S02;P03_F_C5_Laptop_S02.wav;
+P03;F;In the lab office;Laptop (Lenovo ThinkPad X1 Carbon);S03;P03_F_C5_Laptop_S03.wav;
+P03;F;In the lab office;Laptop (Lenovo ThinkPad X1 Carbon);S04;P03_F_C5_Laptop_S04.wav;
+P03;F;In the lab office;Laptop (Lenovo ThinkPad X1 Carbon);S05;P03_F_C5_Laptop_S05.wav;
+P03;F;In front of MAR;Smartphone (iPhone 11 Pro);S01;P03_F_C6_Smartphone_S01.wav;
+P03;F;In front of MAR;Smartphone (iPhone 11 Pro);S02;P03_F_C6_Smartphone_S02.wav;
+P03;F;In front of MAR;Smartphone (iPhone 11 Pro);S03;P03_F_C6_Smartphone_S03.wav;
+P03;F;In front of MAR;Smartphone (iPhone 11 Pro);S04;P03_F_C6_Smartphone_S04.wav;
+P03;F;In front of MAR;Smartphone (iPhone 11 Pro);S05;P03_F_C6_Smartphone_S05.wav;
+P03;F;Campus;AirPods;S01;P03_F_C7_AirPods_S01.wav;
+P03;F;Campus;AirPods;S02;P03_F_C7_AirPods_S02.wav;
+P03;F;Campus;AirPods;S03;P03_F_C7_AirPods_S03.wav;
+P03;F;Campus;AirPods;S04;P03_F_C7_AirPods_S04.wav;
+P03;F;Campus;AirPods;S05;P03_F_C7_AirPods_S05.wav;
+P03;F;U-Bhf;Smartphone (iPhone 11 Pro);S01;P03_F_C8_Smartphone_S01.wav;
+P03;F;U-Bhf;Smartphone (iPhone 11 Pro);S02;P03_F_C8_Smartphone_S02.wav;
+P03;F;U-Bhf;Smartphone (iPhone 11 Pro);S03;P03_F_C8_Smartphone_S03.wav;
+P03;F;U-Bhf;Smartphone (iPhone 11 Pro);S04;P03_F_C8_Smartphone_S04.wav;
+P03;F;U-Bhf;Smartphone (iPhone 11 Pro);S05;P03_F_C8_Smartphone_S05.wav;
+P03;F;Mensa;AirPods;S01;P03_F_C9_AirPods_S01.wav;
+P03;F;Mensa;AirPods;S02;P03_F_C9_AirPods_S02.wav;
+P03;F;Mensa;AirPods;S03;P03_F_C9_AirPods_S03.wav;
+P03;F;Mensa;AirPods;S04;P03_F_C9_AirPods_S04.wav;
+P03;F;Mensa;AirPods;S05;P03_F_C9_AirPods_S05.wav;
+P04;M;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S01;P04_M_C1_Laptop_S01.wav;
+P04;M;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S02;P04_M_C1_Laptop_S02.wav;
+P04;M;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S03;P04_M_C1_Laptop_S03.wav;
+P04;M;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S04;P04_M_C1_Laptop_S04.wav;
+P04;M;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S05;P04_M_C1_Laptop_S05.wav;
+P04;M;In the lab TV noise;Headset (Sennheiser PXC 550);S01;P04_M_C2_Headset_S01.wav;connected to laptop
+P04;M;In the lab TV noise;Headset (Sennheiser PXC 550);S02;P04_M_C2_Headset_S02.wav;connected to laptop
+P04;M;In the lab TV noise;Headset (Sennheiser PXC 550);S03;P04_M_C2_Headset_S03.wav;connected to laptop
+P04;M;In the lab TV noise;Headset (Sennheiser PXC 550);S04;P04_M_C2_Headset_S04.wav;connected to laptop
+P04;M;In the lab TV noise;Headset (Sennheiser PXC 550);S05;P04_M_C2_Headset_S05.wav;connected to laptop
+P04;M;In the lab open windows;Smartphone (iPhone 11 Pro);S01;P04_M_C3_Smartphone_S01.wav;
+P04;M;In the lab open windows;Smartphone (iPhone 11 Pro);S02;P04_M_C3_Smartphone_S02.wav;
+P04;M;In the lab open windows;Smartphone (iPhone 11 Pro);S03;P04_M_C3_Smartphone_S03.wav;
+P04;M;In the lab open windows;Smartphone (iPhone 11 Pro);S04;P04_M_C3_Smartphone_S04.wav;
+P04;M;In the lab open windows;Smartphone (iPhone 11 Pro);S05;P04_M_C3_Smartphone_S05.wav;
+P04;M;In the lab open door;Headset (Sennheiser PXC 550);S01;P04_M_C4_Headset_S01.wav;connected to laptop
+P04;M;In the lab open door;Headset (Sennheiser PXC 550);S02;P04_M_C4_Headset_S02.wav;connected to laptop
+P04;M;In the lab open door;Headset (Sennheiser PXC 550);S03;P04_M_C4_Headset_S03.wav;connected to laptop
+P04;M;In the lab open door;Headset (Sennheiser PXC 550);S04;P04_M_C4_Headset_S04.wav;connected to laptop
+P04;M;In the lab open door;Headset (Sennheiser PXC 550);S05;P04_M_C4_Headset_S05.wav;connected to laptop
+P04;M;In the lab office;Headset (Sennheiser PXC 550);S01;P04_M_C5_Headset_S01.wav;connected to laptop
+P04;M;In the lab office;Headset (Sennheiser PXC 550);S02;P04_M_C5_Headset_S02.wav;connected to laptop
+P04;M;In the lab office;Headset (Sennheiser PXC 550);S03;P04_M_C5_Headset_S03.wav;connected to laptop
+P04;M;In the lab office;Headset (Sennheiser PXC 550);S04;P04_M_C5_Headset_S04.wav;connected to laptop
+P04;M;In the lab office;Headset (Sennheiser PXC 550);S05;P04_M_C5_Headset_S05.wav;connected to laptop
+P04;M;In front of MAR;Headset (Sennheiser PXC 550);S01;P04_M_C6_Headset_S01.wav;
+P04;M;In front of MAR;Headset (Sennheiser PXC 550);S02;P04_M_C6_Headset_S02.wav;
+P04;M;In front of MAR;Headset (Sennheiser PXC 550);S03;P04_M_C6_Headset_S03.wav;
+P04;M;In front of MAR;Headset (Sennheiser PXC 550);S04;P04_M_C6_Headset_S04.wav;
+P04;M;In front of MAR;Headset (Sennheiser PXC 550);S05;P04_M_C6_Headset_S05.wav;
+P04;M;Campus;Smartphone (iPhone 11 Pro);S01;P04_M_C7_Smartphone_S01.wav;
+P04;M;Campus;Smartphone (iPhone 11 Pro);S02;P04_M_C7_Smartphone_S02.wav;
+P04;M;Campus;Smartphone (iPhone 11 Pro);S03;P04_M_C7_Smartphone_S03.wav;
+P04;M;Campus;Smartphone (iPhone 11 Pro);S04;P04_M_C7_Smartphone_S04.wav;
+P04;M;Campus;Smartphone (iPhone 11 Pro);S05;P04_M_C7_Smartphone_S05.wav;
+P04;M;U-Bhf;Headset (Sennheiser PXC 550);S01;P04_M_C8_Headset_S01.wav;
+P04;M;U-Bhf;Headset (Sennheiser PXC 550);S02;P04_M_C8_Headset_S02.wav;
+P04;M;U-Bhf;Headset (Sennheiser PXC 550);S03;P04_M_C8_Headset_S03.wav;
+P04;M;U-Bhf;Headset (Sennheiser PXC 550);S04;P04_M_C8_Headset_S04.wav;
+P04;M;U-Bhf;Headset (Sennheiser PXC 550);S05;P04_M_C8_Headset_S05.wav;
+P04;M;Mensa;Headset (Sennheiser PXC 550);S01;P04_M_C9_Headset_S01.wav;
+P04;M;Mensa;Headset (Sennheiser PXC 550);S02;P04_M_C9_Headset_S02.wav;
+P04;M;Mensa;Headset (Sennheiser PXC 550);S03;P04_M_C9_Headset_S03.wav;
+P04;M;Mensa;Headset (Sennheiser PXC 550);S04;P04_M_C9_Headset_S04.wav;
+P04;M;Mensa;Headset (Sennheiser PXC 550);S05;P04_M_C9_Headset_S05.wav;
+P05;M;In the lab doors/windows closed;Headset (Sennheiser PXC 550);S01;P05_M_C1_Headset_S01.wav;connected to laptop
+P05;M;In the lab doors/windows closed;Headset (Sennheiser PXC 550);S02;P05_M_C1_Headset_S02.wav;connected to laptop
+P05;M;In the lab doors/windows closed;Headset (Sennheiser PXC 550);S03;P05_M_C1_Headset_S03.wav;connected to laptop
+P05;M;In the lab doors/windows closed;Headset (Sennheiser PXC 550);S04;P05_M_C1_Headset_S04.wav;connected to laptop
+P05;M;In the lab doors/windows closed;Headset (Sennheiser PXC 550);S05;P05_M_C1_Headset_S05.wav;connected to laptop
+P05;M;In the lab TV noise;Smartphone (iPhone 11 Pro);S01;P05_M_C2_Smartphone_S01.wav;
+P05;M;In the lab TV noise;Smartphone (iPhone 11 Pro);S02;P05_M_C2_Smartphone_S02.wav;
+P05;M;In the lab TV noise;Smartphone (iPhone 11 Pro);S03;P05_M_C2_Smartphone_S03.wav;
+P05;M;In the lab TV noise;Smartphone (iPhone 11 Pro);S04;P05_M_C2_Smartphone_S04.wav;
+P05;M;In the lab TV noise;Smartphone (iPhone 11 Pro);S05;P05_M_C2_Smartphone_S05.wav;
+P05;M;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S01;P05_M_C3_Laptop_S01.wav;
+P05;M;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S02;P05_M_C3_Laptop_S02.wav;
+P05;M;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S03;P05_M_C3_Laptop_S03.wav;
+P05;M;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S04;P05_M_C3_Laptop_S04.wav;
+P05;M;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S05;P05_M_C3_Laptop_S05.wav;
+P05;M;In the lab open door;Smartphone (iPhone 11 Pro);S01;P05_M_C4_Smartphone_S01.wav;
+P05;M;In the lab open door;Smartphone (iPhone 11 Pro);S02;P05_M_C4_Smartphone_S02.wav;
+P05;M;In the lab open door;Smartphone (iPhone 11 Pro);S03;P05_M_C4_Smartphone_S03.wav;
+P05;M;In the lab open door;Smartphone (iPhone 11 Pro);S04;P05_M_C4_Smartphone_S04.wav;
+P05;M;In the lab open door;Smartphone (iPhone 11 Pro);S05;P05_M_C4_Smartphone_S05.wav;
+P05;M;In the lab office;Smartphone (iPhone 11 Pro);S01;P05_M_C5_Smartphone_S01.wav;
+P05;M;In the lab office;Smartphone (iPhone 11 Pro);S02;P05_M_C5_Smartphone_S02.wav;
+P05;M;In the lab office;Smartphone (iPhone 11 Pro);S03;P05_M_C5_Smartphone_S03.wav;
+P05;M;In the lab office;Smartphone (iPhone 11 Pro);S04;P05_M_C5_Smartphone_S04.wav;
+P05;M;In the lab office;Smartphone (iPhone 11 Pro);S05;P05_M_C5_Smartphone_S05.wav;
+P05;M;In front of MAR;AirPods;S01;P05_M_C6_AirPods_S01.wav;rain_noise & wind_noise
+P05;M;In front of MAR;AirPods;S02;P05_M_C6_AirPods_S02.wav;rain_noise & wind_noise
+P05;M;In front of MAR;AirPods;S03;P05_M_C6_AirPods_S03.wav;rain_noise & wind_noise
+P05;M;In front of MAR;AirPods;S04;P05_M_C6_AirPods_S04.wav;rain_noise & wind_noise
+P05;M;In front of MAR;AirPods;S05;P05_M_C6_AirPods_S05.wav;rain_noise & wind_noise
+P05;M;Campus;Smartphone (iPhone 11 Pro);S01;P05_M_C7_Smartphone_S01.wav;rain_noise & wind_noise
+P05;M;Campus;Smartphone (iPhone 11 Pro);S02;P05_M_C7_Smartphone_S02.wav;rain_noise & wind_noise
+P05;M;Campus;Smartphone (iPhone 11 Pro);S03;P05_M_C7_Smartphone_S03.wav;rain_noise & wind_noise
+P05;M;Campus;Smartphone (iPhone 11 Pro);S04;P05_M_C7_Smartphone_S04.wav;rain_noise & wind_noise
+P05;M;Campus;Smartphone (iPhone 11 Pro);S05;P05_M_C7_Smartphone_S05.wav;rain_noise & wind_noise
+P05;M;U-Bhf;AirPods;S01;P05_M_C8_AirPods_S01.wav;
+P05;M;U-Bhf;AirPods;S02;P05_M_C8_AirPods_S02.wav;
+P05;M;U-Bhf;AirPods;S03;P05_M_C8_AirPods_S03.wav;
+P05;M;U-Bhf;AirPods;S04;P05_M_C8_AirPods_S04.wav;
+P05;M;U-Bhf;AirPods;S05;P05_M_C8_AirPods_S05.wav;
+P05;M;Mensa;AirPods;S01;P05_M_C9_AirPods_S01.wav;
+P05;M;Mensa;AirPods;S02;P05_M_C9_AirPods_S02.wav;
+P05;M;Mensa;AirPods;S03;P05_M_C9_AirPods_S03.wav;
+P05;M;Mensa;AirPods;S04;P05_M_C9_AirPods_S04.wav;
+P05;M;Mensa;AirPods;S05;P05_M_C9_AirPods_S05.wav;
+P06;F;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S01;P06_F_C1_Smartphone_S01.wav;
+P06;F;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S02;P06_F_C1_Smartphone_S02.wav;
+P06;F;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S03;P06_F_C1_Smartphone_S03.wav;
+P06;F;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S04;P06_F_C1_Smartphone_S04.wav;
+P06;F;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S05;P06_F_C1_Smartphone_S05.wav;
+P06;F;In the lab TV noise;Smartphone (iPhone 11 Pro);S01;P06_F_C2_Smartphone_S01.wav;
+P06;F;In the lab TV noise;Smartphone (iPhone 11 Pro);S02;P06_F_C2_Smartphone_S02.wav;
+P06;F;In the lab TV noise;Smartphone (iPhone 11 Pro);S03;P06_F_C2_Smartphone_S03.wav;
+P06;F;In the lab TV noise;Smartphone (iPhone 11 Pro);S04;P06_F_C2_Smartphone_S04.wav;
+P06;F;In the lab TV noise;Smartphone (iPhone 11 Pro);S05;P06_F_C2_Smartphone_S05.wav;
+P06;F;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S01;P06_F_C3_Laptop_S01.wav;
+P06;F;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S02;P06_F_C3_Laptop_S02.wav;
+P06;F;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S03;P06_F_C3_Laptop_S03.wav;
+P06;F;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S04;P06_F_C3_Laptop_S04.wav;
+P06;F;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S05;P06_F_C3_Laptop_S05.wav;
+P06;F;In the lab open door;Laptop (Lenovo ThinkPad X1 Carbon);S01;P06_F_C4_Laptop_S01.wav;
+P06;F;In the lab open door;Laptop (Lenovo ThinkPad X1 Carbon);S02;P06_F_C4_Laptop_S02.wav;
+P06;F;In the lab open door;Laptop (Lenovo ThinkPad X1 Carbon);S03;P06_F_C4_Laptop_S03.wav;
+P06;F;In the lab open door;Laptop (Lenovo ThinkPad X1 Carbon);S04;P06_F_C4_Laptop_S04.wav;
+P06;F;In the lab open door;Laptop (Lenovo ThinkPad X1 Carbon);S05;P06_F_C4_Laptop_S05.wav;
+P06;F;In the lab office;AirPods;S01;P06_F_C5_AirPods_S01.wav;connected to laptop
+P06;F;In the lab office;AirPods;S02;P06_F_C5_AirPods_S02.wav;connected to laptop
+P06;F;In the lab office;AirPods;S03;P06_F_C5_AirPods_S03.wav;connected to laptop
+P06;F;In the lab office;AirPods;S04;P06_F_C5_AirPods_S04.wav;connected to laptop
+P06;F;In the lab office;AirPods;S05;P06_F_C5_AirPods_S05.wav;connected to laptop
+P06;F;In front of MAR;AirPods;S01;P06_F_C6_AirPods_S01.wav;rain_noise & wind_noise
+P06;F;In front of MAR;AirPods;S02;P06_F_C6_AirPods_S02.wav;rain_noise & wind_noise
+P06;F;In front of MAR;AirPods;S03;P06_F_C6_AirPods_S03.wav;rain_noise & wind_noise
+P06;F;In front of MAR;AirPods;S04;P06_F_C6_AirPods_S04.wav;rain_noise & wind_noise
+P06;F;In front of MAR;AirPods;S05;P06_F_C6_AirPods_S05.wav;rain_noise & wind_noise
+P06;F;Campus;Smartphone (iPhone 11 Pro);S01;P06_F_C7_Smartphone_S01.wav;rain_noise & wind_noise
+P06;F;Campus;Smartphone (iPhone 11 Pro);S02;P06_F_C7_Smartphone_S02.wav;rain_noise & wind_noise
+P06;F;Campus;Smartphone (iPhone 11 Pro);S03;P06_F_C7_Smartphone_S03.wav;rain_noise & wind_noise
+P06;F;Campus;Smartphone (iPhone 11 Pro);S04;P06_F_C7_Smartphone_S04.wav;rain_noise & wind_noise
+P06;F;Campus;Smartphone (iPhone 11 Pro);S05;P06_F_C7_Smartphone_S05.wav;rain_noise & wind_noise
+P06;F;U-Bhf;Smartphone (iPhone 11 Pro);S01;P06_F_C8_Smartphone_S01.wav;
+P06;F;U-Bhf;Smartphone (iPhone 11 Pro);S02;P06_F_C8_Smartphone_S02.wav;
+P06;F;U-Bhf;Smartphone (iPhone 11 Pro);S03;P06_F_C8_Smartphone_S03.wav;
+P06;F;U-Bhf;Smartphone (iPhone 11 Pro);S04;P06_F_C8_Smartphone_S04.wav;
+P06;F;U-Bhf;Smartphone (iPhone 11 Pro);S05;P06_F_C8_Smartphone_S05.wav;
+P06;F;Mensa;AirPods;S01;P06_F_C9_AirPods_S01.wav;
+P06;F;Mensa;AirPods;S02;P06_F_C9_AirPods_S02.wav;
+P06;F;Mensa;AirPods;S03;P06_F_C9_AirPods_S03.wav;
+P06;F;Mensa;AirPods;S04;P06_F_C9_AirPods_S04.wav;
+P06;F;Mensa;AirPods;S05;P06_F_C9_AirPods_S05.wav;
+P07;F;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S01;P07_F_C1_Laptop_S01.wav;
+P07;F;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S02;P07_F_C1_Laptop_S02.wav;
+P07;F;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S03;P07_F_C1_Laptop_S03.wav;
+P07;F;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S04;P07_F_C1_Laptop_S04.wav;
+P07;F;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S05;P07_F_C1_Laptop_S05.wav;
+P07;F;In the lab TV noise;Smartphone (iPhone 11 Pro);S01;P07_F_C2_Smartphone_S01.wav;
+P07;F;In the lab TV noise;Smartphone (iPhone 11 Pro);S02;P07_F_C2_Smartphone_S02.wav;
+P07;F;In the lab TV noise;Smartphone (iPhone 11 Pro);S03;P07_F_C2_Smartphone_S03.wav;
+P07;F;In the lab TV noise;Smartphone (iPhone 11 Pro);S04;P07_F_C2_Smartphone_S04.wav;
+P07;F;In the lab TV noise;Smartphone (iPhone 11 Pro);S05;P07_F_C2_Smartphone_S05.wav;
+P07;F;In the lab open windows;AirPods;S01;P07_F_C3_AirPods_S01.wav;connected to laptop
+P07;F;In the lab open windows;AirPods;S02;P07_F_C3_AirPods_S02.wav;connected to laptop
+P07;F;In the lab open windows;AirPods;S03;P07_F_C3_AirPods_S03.wav;connected to laptop
+P07;F;In the lab open windows;AirPods;S04;P07_F_C3_AirPods_S04.wav;connected to laptop
+P07;F;In the lab open windows;AirPods;S05;P07_F_C3_AirPods_S05.wav;connected to laptop
+P07;F;In the lab open door;Smartphone (iPhone 11 Pro);S01;P07_F_C4_Smartphone_S01.wav;
+P07;F;In the lab open door;Smartphone (iPhone 11 Pro);S02;P07_F_C4_Smartphone_S02.wav;
+P07;F;In the lab open door;Smartphone (iPhone 11 Pro);S03;P07_F_C4_Smartphone_S03.wav;
+P07;F;In the lab open door;Smartphone (iPhone 11 Pro);S04;P07_F_C4_Smartphone_S04.wav;
+P07;F;In the lab open door;Smartphone (iPhone 11 Pro);S05;P07_F_C4_Smartphone_S05.wav;
+P07;F;In the lab office;Smartphone (iPhone 11 Pro);S01;P07_F_C5_Smartphone_S01.wav;
+P07;F;In the lab office;Smartphone (iPhone 11 Pro);S02;P07_F_C5_Smartphone_S02.wav;
+P07;F;In the lab office;Smartphone (iPhone 11 Pro);S03;P07_F_C5_Smartphone_S03.wav;
+P07;F;In the lab office;Smartphone (iPhone 11 Pro);S04;P07_F_C5_Smartphone_S04.wav;
+P07;F;In the lab office;Smartphone (iPhone 11 Pro);S05;P07_F_C5_Smartphone_S05.wav;
+P07;F;In front of MAR;Smartphone (iPhone 11 Pro);S01;P07_F_C6_Smartphone_S01.wav;
+P07;F;In front of MAR;Smartphone (iPhone 11 Pro);S02;P07_F_C6_Smartphone_S02.wav;
+P07;F;In front of MAR;Smartphone (iPhone 11 Pro);S03;P07_F_C6_Smartphone_S03.wav;
+P07;F;In front of MAR;Smartphone (iPhone 11 Pro);S04;P07_F_C6_Smartphone_S04.wav;
+P07;F;In front of MAR;Smartphone (iPhone 11 Pro);S05;P07_F_C6_Smartphone_S05.wav;
+P07;F;Campus;AirPods;S01;P07_F_C7_AirPods_S01.wav;
+P07;F;Campus;AirPods;S02;P07_F_C7_AirPods_S02.wav;
+P07;F;Campus;AirPods;S03;P07_F_C7_AirPods_S03.wav;
+P07;F;Campus;AirPods;S04;P07_F_C7_AirPods_S04.wav;
+P07;F;Campus;AirPods;S05;P07_F_C7_AirPods_S05.wav;
+P07;F;U-Bhf;Headset (Sennheiser PXC 550);S01;P07_F_C8_Headset_S01.wav;
+P07;F;U-Bhf;Headset (Sennheiser PXC 550);S02;P07_F_C8_Headset_S02.wav;
+P07;F;U-Bhf;Headset (Sennheiser PXC 550);S03;P07_F_C8_Headset_S03.wav;
+P07;F;U-Bhf;Headset (Sennheiser PXC 550);S04;P07_F_C8_Headset_S04.wav;
+P07;F;U-Bhf;Headset (Sennheiser PXC 550);S05;P07_F_C8_Headset_S05.wav;
+P07;F;Mensa;Headset (Sennheiser PXC 550);S01;P07_F_C9_Headset_S01.wav;
+P07;F;Mensa;Headset (Sennheiser PXC 550);S02;P07_F_C9_Headset_S02.wav;
+P07;F;Mensa;Headset (Sennheiser PXC 550);S03;P07_F_C9_Headset_S03.wav;
+P07;F;Mensa;Headset (Sennheiser PXC 550);S04;P07_F_C9_Headset_S04.wav;
+P07;F;Mensa;Headset (Sennheiser PXC 550);S05;P07_F_C9_Headset_S05.wav;
+P08;F;In the lab doors/windows closed;AirPods;S01;P08_F_C1_AirPods_S01.wav;connected to laptop
+P08;F;In the lab doors/windows closed;AirPods;S02;P08_F_C1_AirPods_S02.wav;connected to laptop
+P08;F;In the lab doors/windows closed;AirPods;S03;P08_F_C1_AirPods_S03.wav;connected to laptop
+P08;F;In the lab doors/windows closed;AirPods;S04;P08_F_C1_AirPods_S04.wav;connected to laptop
+P08;F;In the lab doors/windows closed;AirPods;S05;P08_F_C1_AirPods_S05.wav;connected to laptop
+P08;F;In the lab TV noise;Laptop (Lenovo ThinkPad X1 Carbon);S01;P08_F_C2_Laptop_S01.wav;
+P08;F;In the lab TV noise;Laptop (Lenovo ThinkPad X1 Carbon);S02;P08_F_C2_Laptop_S02.wav;
+P08;F;In the lab TV noise;Laptop (Lenovo ThinkPad X1 Carbon);S03;P08_F_C2_Laptop_S03.wav;
+P08;F;In the lab TV noise;Laptop (Lenovo ThinkPad X1 Carbon);S04;P08_F_C2_Laptop_S04.wav;
+P08;F;In the lab TV noise;Laptop (Lenovo ThinkPad X1 Carbon);S05;P08_F_C2_Laptop_S05.wav;
+P08;F;In the lab open windows;Smartphone (iPhone 11 Pro);S01;P08_F_C3_Smartphone_S01.wav;
+P08;F;In the lab open windows;Smartphone (iPhone 11 Pro);S02;P08_F_C3_Smartphone_S02.wav;
+P08;F;In the lab open windows;Smartphone (iPhone 11 Pro);S03;P08_F_C3_Smartphone_S03.wav;
+P08;F;In the lab open windows;Smartphone (iPhone 11 Pro);S04;P08_F_C3_Smartphone_S04.wav;
+P08;F;In the lab open windows;Smartphone (iPhone 11 Pro);S05;P08_F_C3_Smartphone_S05.wav;
+P08;F;In the lab open door;Laptop (Lenovo ThinkPad X1 Carbon);S01;P08_F_C4_Laptop_S01.wav;
+P08;F;In the lab open door;Laptop (Lenovo ThinkPad X1 Carbon);S02;P08_F_C4_Laptop_S02.wav;
+P08;F;In the lab open door;Laptop (Lenovo ThinkPad X1 Carbon);S03;P08_F_C4_Laptop_S03.wav;
+P08;F;In the lab open door;Laptop (Lenovo ThinkPad X1 Carbon);S04;P08_F_C4_Laptop_S04.wav;
+P08;F;In the lab open door;Laptop (Lenovo ThinkPad X1 Carbon);S05;P08_F_C4_Laptop_S05.wav;
+P08;F;In the lab office;AirPods;S01;P08_F_C5_AirPods_S01.wav;connected to laptop
+P08;F;In the lab office;AirPods;S02;P08_F_C5_AirPods_S02.wav;connected to laptop
+P08;F;In the lab office;AirPods;S03;P08_F_C5_AirPods_S03.wav;connected to laptop
+P08;F;In the lab office;AirPods;S04;P08_F_C5_AirPods_S04.wav;connected to laptop
+P08;F;In the lab office;AirPods;S05;P08_F_C5_AirPods_S05.wav;connected to laptop
+P08;F;In front of MAR;Headset (Sennheiser PXC 550);S01;P08_F_C6_Headset_S01.wav;
+P08;F;In front of MAR;Headset (Sennheiser PXC 550);S02;P08_F_C6_Headset_S02.wav;
+P08;F;In front of MAR;Headset (Sennheiser PXC 550);S03;P08_F_C6_Headset_S03.wav;
+P08;F;In front of MAR;Headset (Sennheiser PXC 550);S04;P08_F_C6_Headset_S04.wav;
+P08;F;In front of MAR;Headset (Sennheiser PXC 550);S05;P08_F_C6_Headset_S05.wav;
+P08;F;Campus;Headset (Sennheiser PXC 550);S01;P08_F_C7_Headset_S01.wav;
+P08;F;Campus;Headset (Sennheiser PXC 550);S02;P08_F_C7_Headset_S02.wav;
+P08;F;Campus;Headset (Sennheiser PXC 550);S03;P08_F_C7_Headset_S03.wav;
+P08;F;Campus;Headset (Sennheiser PXC 550);S04;P08_F_C7_Headset_S04.wav;
+P08;F;Campus;Headset (Sennheiser PXC 550);S05;P08_F_C7_Headset_S05.wav;
+P08;F;U-Bhf;Headset (Sennheiser PXC 550);S01;P08_F_C8_Headset_S01.wav;
+P08;F;U-Bhf;Headset (Sennheiser PXC 550);S02;P08_F_C8_Headset_S02.wav;
+P08;F;U-Bhf;Headset (Sennheiser PXC 550);S03;P08_F_C8_Headset_S03.wav;
+P08;F;U-Bhf;Headset (Sennheiser PXC 550);S04;P08_F_C8_Headset_S04.wav;
+P08;F;U-Bhf;Headset (Sennheiser PXC 550);S05;P08_F_C8_Headset_S05.wav;
+P08;F;Mensa;Smartphone (iPhone 11 Pro);S01;P08_F_C9_Smartphone_S01.wav;
+P08;F;Mensa;Smartphone (iPhone 11 Pro);S02;P08_F_C9_Smartphone_S02.wav;
+P08;F;Mensa;Smartphone (iPhone 11 Pro);S03;P08_F_C9_Smartphone_S03.wav;
+P08;F;Mensa;Smartphone (iPhone 11 Pro);S04;P08_F_C9_Smartphone_S04.wav;
+P08;F;Mensa;Smartphone (iPhone 11 Pro);S05;P08_F_C9_Smartphone_S05.wav;
+P09;F;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S01;P09_F_C1_Laptop_S01.wav;
+P09;F;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S02;P09_F_C1_Laptop_S02.wav;
+P09;F;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S03;P09_F_C1_Laptop_S03.wav;
+P09;F;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S04;P09_F_C1_Laptop_S04.wav;
+P09;F;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S05;P09_F_C1_Laptop_S05.wav;
+P09;F;In the lab TV noise;Headset (Sennheiser PXC 550);S01;P09_F_C2_Headset_S01.wav;connected to laptop
+P09;F;In the lab TV noise;Headset (Sennheiser PXC 550);S02;P09_F_C2_Headset_S02.wav;connected to laptop
+P09;F;In the lab TV noise;Headset (Sennheiser PXC 550);S03;P09_F_C2_Headset_S03.wav;connected to laptop
+P09;F;In the lab TV noise;Headset (Sennheiser PXC 550);S04;P09_F_C2_Headset_S04.wav;connected to laptop
+P09;F;In the lab TV noise;Headset (Sennheiser PXC 550);S05;P09_F_C2_Headset_S05.wav;connected to laptop
+P09;F;In the lab open windows;AirPods;S01;P09_F_C3_AirPods_S01.wav;connected to laptop
+P09;F;In the lab open windows;AirPods;S02;P09_F_C3_AirPods_S02.wav;connected to laptop
+P09;F;In the lab open windows;AirPods;S03;P09_F_C3_AirPods_S03.wav;connected to laptop
+P09;F;In the lab open windows;AirPods;S04;P09_F_C3_AirPods_S04.wav;connected to laptop
+P09;F;In the lab open windows;AirPods;S05;P09_F_C3_AirPods_S05.wav;connected to laptop
+P09;F;In the lab open door;Smartphone (iPhone 11 Pro);S01;P09_F_C4_Smartphone_S01.wav;
+P09;F;In the lab open door;Smartphone (iPhone 11 Pro);S02;P09_F_C4_Smartphone_S02.wav;
+P09;F;In the lab open door;Smartphone (iPhone 11 Pro);S03;P09_F_C4_Smartphone_S03.wav;
+P09;F;In the lab open door;Smartphone (iPhone 11 Pro);S04;P09_F_C4_Smartphone_S04.wav;
+P09;F;In the lab open door;Smartphone (iPhone 11 Pro);S05;P09_F_C4_Smartphone_S05.wav;
+P09;F;In the lab office;Laptop (Lenovo ThinkPad X1 Carbon);S01;P09_F_C5_Laptop_S01.wav;
+P09;F;In the lab office;Laptop (Lenovo ThinkPad X1 Carbon);S02;P09_F_C5_Laptop_S02.wav;
+P09;F;In the lab office;Laptop (Lenovo ThinkPad X1 Carbon);S03;P09_F_C5_Laptop_S03.wav;
+P09;F;In the lab office;Laptop (Lenovo ThinkPad X1 Carbon);S04;P09_F_C5_Laptop_S04.wav;
+P09;F;In the lab office;Laptop (Lenovo ThinkPad X1 Carbon);S05;P09_F_C5_Laptop_S05.wav;
+P09;F;In front of MAR;Smartphone (iPhone 11 Pro);S01;P09_F_C6_Smartphone_S01.wav;
+P09;F;In front of MAR;Smartphone (iPhone 11 Pro);S02;P09_F_C6_Smartphone_S02.wav;
+P09;F;In front of MAR;Smartphone (iPhone 11 Pro);S03;P09_F_C6_Smartphone_S03.wav;
+P09;F;In front of MAR;Smartphone (iPhone 11 Pro);S04;P09_F_C6_Smartphone_S04.wav;
+P09;F;In front of MAR;Smartphone (iPhone 11 Pro);S05;P09_F_C6_Smartphone_S05.wav;
+P09;F;Campus;Headset (Sennheiser PXC 550);S01;P09_F_C7_Headset_S01.wav;
+P09;F;Campus;Headset (Sennheiser PXC 550);S02;P09_F_C7_Headset_S02.wav;
+P09;F;Campus;Headset (Sennheiser PXC 550);S03;P09_F_C7_Headset_S03.wav;
+P09;F;Campus;Headset (Sennheiser PXC 550);S04;P09_F_C7_Headset_S04.wav;
+P09;F;Campus;Headset (Sennheiser PXC 550);S05;P09_F_C7_Headset_S05.wav;
+P09;F;U-Bhf;Smartphone (iPhone 11 Pro);S01;P09_F_C8_Smartphone_S01.wav;
+P09;F;U-Bhf;Smartphone (iPhone 11 Pro);S02;P09_F_C8_Smartphone_S02.wav;
+P09;F;U-Bhf;Smartphone (iPhone 11 Pro);S03;P09_F_C8_Smartphone_S03.wav;
+P09;F;U-Bhf;Smartphone (iPhone 11 Pro);S04;P09_F_C8_Smartphone_S04.wav;
+P09;F;U-Bhf;Smartphone (iPhone 11 Pro);S05;P09_F_C8_Smartphone_S05.wav;
+P09;F;Mensa;AirPods;S01;P09_F_C9_AirPods_S01.wav;
+P09;F;Mensa;AirPods;S02;P09_F_C9_AirPods_S02.wav;
+P09;F;Mensa;AirPods;S03;P09_F_C9_AirPods_S03.wav;
+P09;F;Mensa;AirPods;S04;P09_F_C9_AirPods_S04.wav;
+P09;F;Mensa;AirPods;S05;P09_F_C9_AirPods_S05.wav;
+P10;F;In the lab doors/windows closed;AirPods;S01;P10_F_C1_AirPods_S01.wav;connected to laptop
+P10;F;In the lab doors/windows closed;AirPods;S02;P10_F_C1_AirPods_S02.wav;connected to laptop
+P10;F;In the lab doors/windows closed;AirPods;S03;P10_F_C1_AirPods_S03.wav;connected to laptop
+P10;F;In the lab doors/windows closed;AirPods;S04;P10_F_C1_AirPods_S04.wav;connected to laptop
+P10;F;In the lab doors/windows closed;AirPods;S05;P10_F_C1_AirPods_S05.wav;connected to laptop
+P10;F;In the lab TV noise;Smartphone (iPhone 11 Pro);S01;P10_F_C2_Smartphone_S01.wav;
+P10;F;In the lab TV noise;Smartphone (iPhone 11 Pro);S02;P10_F_C2_Smartphone_S02.wav;
+P10;F;In the lab TV noise;Smartphone (iPhone 11 Pro);S03;P10_F_C2_Smartphone_S03.wav;
+P10;F;In the lab TV noise;Smartphone (iPhone 11 Pro);S04;P10_F_C2_Smartphone_S04.wav;
+P10;F;In the lab TV noise;Smartphone (iPhone 11 Pro);S05;P10_F_C2_Smartphone_S05.wav;
+P10;F;In the lab open windows;Headset (Sennheiser PXC 550);S01;P10_F_C3_Headset_S01.wav;connected to laptop
+P10;F;In the lab open windows;Headset (Sennheiser PXC 550);S02;P10_F_C3_Headset_S02.wav;connected to laptop
+P10;F;In the lab open windows;Headset (Sennheiser PXC 550);S03;P10_F_C3_Headset_S03.wav;connected to laptop
+P10;F;In the lab open windows;Headset (Sennheiser PXC 550);S04;P10_F_C3_Headset_S04.wav;connected to laptop
+P10;F;In the lab open windows;Headset (Sennheiser PXC 550);S05;P10_F_C3_Headset_S05.wav;connected to laptop
+P10;F;In the lab open door;Smartphone (iPhone 11 Pro);S01;P10_F_C4_Smartphone_S01.wav;
+P10;F;In the lab open door;Smartphone (iPhone 11 Pro);S02;P10_F_C4_Smartphone_S02.wav;
+P10;F;In the lab open door;Smartphone (iPhone 11 Pro);S03;P10_F_C4_Smartphone_S03.wav;
+P10;F;In the lab open door;Smartphone (iPhone 11 Pro);S04;P10_F_C4_Smartphone_S04.wav;
+P10;F;In the lab open door;Smartphone (iPhone 11 Pro);S05;P10_F_C4_Smartphone_S05.wav;
+P10;F;In the lab office;Smartphone (iPhone 11 Pro);S01;P10_F_C5_Smartphone_S01.wav;
+P10;F;In the lab office;Smartphone (iPhone 11 Pro);S02;P10_F_C5_Smartphone_S02.wav;
+P10;F;In the lab office;Smartphone (iPhone 11 Pro);S03;P10_F_C5_Smartphone_S03.wav;
+P10;F;In the lab office;Smartphone (iPhone 11 Pro);S04;P10_F_C5_Smartphone_S04.wav;
+P10;F;In the lab office;Smartphone (iPhone 11 Pro);S05;P10_F_C5_Smartphone_S05.wav;
+P10;F;In front of MAR;Headset (Sennheiser PXC 550);S01;P10_F_C6_Headset_S01.wav;
+P10;F;In front of MAR;Headset (Sennheiser PXC 550);S02;P10_F_C6_Headset_S02.wav;
+P10;F;In front of MAR;Headset (Sennheiser PXC 550);S03;P10_F_C6_Headset_S03.wav;
+P10;F;In front of MAR;Headset (Sennheiser PXC 550);S04;P10_F_C6_Headset_S04.wav;
+P10;F;In front of MAR;Headset (Sennheiser PXC 550);S05;P10_F_C6_Headset_S05.wav;
+P10;F;Campus;Smartphone (iPhone 11 Pro);S01;P10_F_C7_Smartphone_S01.wav;
+P10;F;Campus;Smartphone (iPhone 11 Pro);S02;P10_F_C7_Smartphone_S02.wav;
+P10;F;Campus;Smartphone (iPhone 11 Pro);S03;P10_F_C7_Smartphone_S03.wav;
+P10;F;Campus;Smartphone (iPhone 11 Pro);S04;P10_F_C7_Smartphone_S04.wav;
+P10;F;Campus;Smartphone (iPhone 11 Pro);S05;P10_F_C7_Smartphone_S05.wav;
+P10;F;U-Bhf;AirPods;S01;P10_F_C8_AirPods_S01.wav;
+P10;F;U-Bhf;AirPods;S02;P10_F_C8_AirPods_S02.wav;
+P10;F;U-Bhf;AirPods;S03;P10_F_C8_AirPods_S03.wav;
+P10;F;U-Bhf;AirPods;S04;P10_F_C8_AirPods_S04.wav;
+P10;F;U-Bhf;AirPods;S05;P10_F_C8_AirPods_S05.wav;
+P10;F;Mensa;Headset (Sennheiser PXC 550);S01;P10_F_C9_Headset_S01.wav;
+P10;F;Mensa;Headset (Sennheiser PXC 550);S02;P10_F_C9_Headset_S02.wav;
+P10;F;Mensa;Headset (Sennheiser PXC 550);S03;P10_F_C9_Headset_S03.wav;
+P10;F;Mensa;Headset (Sennheiser PXC 550);S04;P10_F_C9_Headset_S04.wav;
+P10;F;Mensa;Headset (Sennheiser PXC 550);S05;P10_F_C9_Headset_S05.wav;
+P11;M;In the lab doors/windows closed;AirPods;S01;P11_M_C1_AirPods_S01.wav;connected to smartphone
+P11;M;In the lab doors/windows closed;AirPods;S02;P11_M_C1_AirPods_S02.wav;connected to smartphone
+P11;M;In the lab doors/windows closed;AirPods;S03;P11_M_C1_AirPods_S03.wav;connected to smartphone
+P11;M;In the lab doors/windows closed;AirPods;S04;P11_M_C1_AirPods_S04.wav;connected to smartphone
+P11;M;In the lab doors/windows closed;AirPods;S05;P11_M_C1_AirPods_S05.wav;connected to smartphone
+P11;M;In the lab TV noise;Laptop (Lenovo ThinkPad X1 Carbon);S01;P11_M_C2_Laptop_S01.wav;
+P11;M;In the lab TV noise;Laptop (Lenovo ThinkPad X1 Carbon);S02;P11_M_C2_Laptop_S02.wav;
+P11;M;In the lab TV noise;Laptop (Lenovo ThinkPad X1 Carbon);S03;P11_M_C2_Laptop_S03.wav;
+P11;M;In the lab TV noise;Laptop (Lenovo ThinkPad X1 Carbon);S04;P11_M_C2_Laptop_S04.wav;
+P11;M;In the lab TV noise;Laptop (Lenovo ThinkPad X1 Carbon);S05;P11_M_C2_Laptop_S05.wav;
+P11;M;In the lab open windows;AirPods;S01;P11_M_C3_AirPods_S01.wav;connected to smartphone
+P11;M;In the lab open windows;AirPods;S02;P11_M_C3_AirPods_S02.wav;connected to smartphone
+P11;M;In the lab open windows;AirPods;S03;P11_M_C3_AirPods_S03.wav;connected to smartphone
+P11;M;In the lab open windows;AirPods;S04;P11_M_C3_AirPods_S04.wav;connected to smartphone
+P11;M;In the lab open windows;AirPods;S05;P11_M_C3_AirPods_S05.wav;connected to smartphone
+P11;M;In the lab open door;AirPods;S01;P11_M_C4_AirPods_S01.wav;connected to smartphone
+P11;M;In the lab open door;AirPods;S02;P11_M_C4_AirPods_S02.wav;connected to smartphone
+P11;M;In the lab open door;AirPods;S03;P11_M_C4_AirPods_S03.wav;connected to smartphone
+P11;M;In the lab open door;AirPods;S04;P11_M_C4_AirPods_S04.wav;connected to smartphone
+P11;M;In the lab open door;AirPods;S05;P11_M_C4_AirPods_S05.wav;connected to smartphone
+P11;M;In the lab office;AirPods;S01;P11_M_C5_AirPods_S01.wav;connected to smartphone
+P11;M;In the lab office;AirPods;S02;P11_M_C5_AirPods_S02.wav;connected to smartphone
+P11;M;In the lab office;AirPods;S03;P11_M_C5_AirPods_S03.wav;connected to smartphone
+P11;M;In the lab office;AirPods;S04;P11_M_C5_AirPods_S04.wav;connected to smartphone
+P11;M;In the lab office;AirPods;S05;P11_M_C5_AirPods_S05.wav;connected to smartphone
+P11;M;In front of MAR;Smartphone (iPhone 11 Pro);S01;P11_M_C6_Smartphone_S01.wav;
+P11;M;In front of MAR;Smartphone (iPhone 11 Pro);S02;P11_M_C6_Smartphone_S02.wav;
+P11;M;In front of MAR;Smartphone (iPhone 11 Pro);S03;P11_M_C6_Smartphone_S03.wav;
+P11;M;In front of MAR;Smartphone (iPhone 11 Pro);S04;P11_M_C6_Smartphone_S04.wav;
+P11;M;In front of MAR;Smartphone (iPhone 11 Pro);S05;P11_M_C6_Smartphone_S05.wav;
+P11;M;Campus;AirPods;S01;P11_M_C7_AirPods_S01.wav;
+P11;M;Campus;AirPods;S02;P11_M_C7_AirPods_S02.wav;
+P11;M;Campus;AirPods;S03;P11_M_C7_AirPods_S03.wav;
+P11;M;Campus;AirPods;S04;P11_M_C7_AirPods_S04.wav;
+P11;M;Campus;AirPods;S05;P11_M_C7_AirPods_S05.wav;
+P11;M;U-Bhf;AirPods;S01;P11_M_C8_AirPods_S01.wav;
+P11;M;U-Bhf;AirPods;S02;P11_M_C8_AirPods_S02.wav;
+P11;M;U-Bhf;AirPods;S03;P11_M_C8_AirPods_S03.wav;
+P11;M;U-Bhf;AirPods;S04;P11_M_C8_AirPods_S04.wav;
+P11;M;U-Bhf;AirPods;S05;P11_M_C8_AirPods_S05.wav;
+P11;M;Mensa;Smartphone (iPhone 11 Pro);S01;P11_M_C9_Smartphone_S01.wav;
+P11;M;Mensa;Smartphone (iPhone 11 Pro);S02;P11_M_C9_Smartphone_S02.wav;
+P11;M;Mensa;Smartphone (iPhone 11 Pro);S03;P11_M_C9_Smartphone_S03.wav;
+P11;M;Mensa;Smartphone (iPhone 11 Pro);S04;P11_M_C9_Smartphone_S04.wav;
+P11;M;Mensa;Smartphone (iPhone 11 Pro);S05;P11_M_C9_Smartphone_S05.wav;
+P12;M;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S01;P12_M_C1_Laptop_S01.wav;
+P12;M;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S02;P12_M_C1_Laptop_S02.wav;
+P12;M;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S03;P12_M_C1_Laptop_S03.wav;
+P12;M;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S04;P12_M_C1_Laptop_S04.wav;
+P12;M;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S05;P12_M_C1_Laptop_S05.wav;
+P12;M;In the lab TV noise;Headset (Sennheiser PXC 550);S01;P12_M_C2_Headset_S01.wav;connected to smartphone
+P12;M;In the lab TV noise;Headset (Sennheiser PXC 550);S02;P12_M_C2_Headset_S02.wav;connected to smartphone
+P12;M;In the lab TV noise;Headset (Sennheiser PXC 550);S03;P12_M_C2_Headset_S03.wav;connected to smartphone
+P12;M;In the lab TV noise;Headset (Sennheiser PXC 550);S04;P12_M_C2_Headset_S04.wav;connected to smartphone
+P12;M;In the lab TV noise;Headset (Sennheiser PXC 550);S05;P12_M_C2_Headset_S05.wav;connected to smartphone
+P12;M;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S01;P12_M_C3_Laptop_S01.wav;
+P12;M;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S02;P12_M_C3_Laptop_S02.wav;
+P12;M;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S03;P12_M_C3_Laptop_S03.wav;
+P12;M;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S04;P12_M_C3_Laptop_S04.wav;
+P12;M;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S05;P12_M_C3_Laptop_S05.wav;
+P12;M;In the lab open door;Headset (Sennheiser PXC 550);S01;P12_M_C4_Headset_S01.wav;connected to smartphone
+P12;M;In the lab open door;Headset (Sennheiser PXC 550);S02;P12_M_C4_Headset_S02.wav;connected to smartphone
+P12;M;In the lab open door;Headset (Sennheiser PXC 550);S03;P12_M_C4_Headset_S03.wav;connected to smartphone
+P12;M;In the lab open door;Headset (Sennheiser PXC 550);S04;P12_M_C4_Headset_S04.wav;connected to smartphone
+P12;M;In the lab open door;Headset (Sennheiser PXC 550);S05;P12_M_C4_Headset_S05.wav;connected to smartphone
+P12;M;In the lab office;Headset (Sennheiser PXC 550);S01;P12_M_C5_Headset_S01.wav;connected to smartphone
+P12;M;In the lab office;Headset (Sennheiser PXC 550);S02;P12_M_C5_Headset_S02.wav;connected to smartphone
+P12;M;In the lab office;Headset (Sennheiser PXC 550);S03;P12_M_C5_Headset_S03.wav;connected to smartphone
+P12;M;In the lab office;Headset (Sennheiser PXC 550);S04;P12_M_C5_Headset_S04.wav;connected to smartphone
+P12;M;In the lab office;Headset (Sennheiser PXC 550);S05;P12_M_C5_Headset_S05.wav;connected to smartphone
+P12;M;In front of MAR;Headset (Sennheiser PXC 550);S01;P12_M_C6_Headset_S01.wav;
+P12;M;In front of MAR;Headset (Sennheiser PXC 550);S02;P12_M_C6_Headset_S02.wav;
+P12;M;In front of MAR;Headset (Sennheiser PXC 550);S03;P12_M_C6_Headset_S03.wav;
+P12;M;In front of MAR;Headset (Sennheiser PXC 550);S04;P12_M_C6_Headset_S04.wav;
+P12;M;In front of MAR;Headset (Sennheiser PXC 550);S05;P12_M_C6_Headset_S05.wav;
+P12;M;Campus;Headset (Sennheiser PXC 550);S01;P12_M_C7_Headset_S01.wav;
+P12;M;Campus;Headset (Sennheiser PXC 550);S02;P12_M_C7_Headset_S02.wav;
+P12;M;Campus;Headset (Sennheiser PXC 550);S03;P12_M_C7_Headset_S03.wav;
+P12;M;Campus;Headset (Sennheiser PXC 550);S04;P12_M_C7_Headset_S04.wav;
+P12;M;Campus;Headset (Sennheiser PXC 550);S05;P12_M_C7_Headset_S05.wav;
+P12;M;U-Bhf;Smartphone (iPhone 11 Pro);S01;P12_M_C8_Smartphone_S01.wav;
+P12;M;U-Bhf;Smartphone (iPhone 11 Pro);S02;P12_M_C8_Smartphone_S02.wav;
+P12;M;U-Bhf;Smartphone (iPhone 11 Pro);S03;P12_M_C8_Smartphone_S03.wav;
+P12;M;U-Bhf;Smartphone (iPhone 11 Pro);S04;P12_M_C8_Smartphone_S04.wav;
+P12;M;U-Bhf;Smartphone (iPhone 11 Pro);S05;P12_M_C8_Smartphone_S05.wav;
+P12;M;Mensa;Smartphone (iPhone 11 Pro);S01;P12_M_C9_Smartphone_S01.wav;
+P12;M;Mensa;Smartphone (iPhone 11 Pro);S02;P12_M_C9_Smartphone_S02.wav;
+P12;M;Mensa;Smartphone (iPhone 11 Pro);S03;P12_M_C9_Smartphone_S03.wav;
+P12;M;Mensa;Smartphone (iPhone 11 Pro);S04;P12_M_C9_Smartphone_S04.wav;
+P12;M;Mensa;Smartphone (iPhone 11 Pro);S05;P12_M_C9_Smartphone_S05.wav;
+P13;F;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S01;P13_F_C1_Smartphone_S01.wav;
+P13;F;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S02;P13_F_C1_Smartphone_S02.wav;
+P13;F;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S03;P13_F_C1_Smartphone_S03.wav;
+P13;F;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S04;P13_F_C1_Smartphone_S04.wav;
+P13;F;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S05;P13_F_C1_Smartphone_S05.wav;
+P13;F;In the lab TV noise;Laptop (Lenovo ThinkPad X1 Carbon);S01;P13_F_C2_Laptop_S01.wav;
+P13;F;In the lab TV noise;Laptop (Lenovo ThinkPad X1 Carbon);S02;P13_F_C2_Laptop_S02.wav;
+P13;F;In the lab TV noise;Laptop (Lenovo ThinkPad X1 Carbon);S03;P13_F_C2_Laptop_S03.wav;
+P13;F;In the lab TV noise;Laptop (Lenovo ThinkPad X1 Carbon);S04;P13_F_C2_Laptop_S04.wav;
+P13;F;In the lab TV noise;Laptop (Lenovo ThinkPad X1 Carbon);S05;P13_F_C2_Laptop_S05.wav;
+P13;F;In the lab open windows;Smartphone (iPhone 11 Pro);S01;P13_F_C3_Smartphone_S01.wav;
+P13;F;In the lab open windows;Smartphone (iPhone 11 Pro);S02;P13_F_C3_Smartphone_S02.wav;
+P13;F;In the lab open windows;Smartphone (iPhone 11 Pro);S03;P13_F_C3_Smartphone_S03.wav;
+P13;F;In the lab open windows;Smartphone (iPhone 11 Pro);S04;P13_F_C3_Smartphone_S04.wav;
+P13;F;In the lab open windows;Smartphone (iPhone 11 Pro);S05;P13_F_C3_Smartphone_S05.wav;
+P13;F;In the lab open door;Smartphone (iPhone 11 Pro);S01;P13_F_C4_Smartphone_S01.wav;
+P13;F;In the lab open door;Smartphone (iPhone 11 Pro);S02;P13_F_C4_Smartphone_S02.wav;
+P13;F;In the lab open door;Smartphone (iPhone 11 Pro);S03;P13_F_C4_Smartphone_S03.wav;
+P13;F;In the lab open door;Smartphone (iPhone 11 Pro);S04;P13_F_C4_Smartphone_S04.wav;
+P13;F;In the lab open door;Smartphone (iPhone 11 Pro);S05;P13_F_C4_Smartphone_S05.wav;
+P13;F;In the lab office;Smartphone (iPhone 11 Pro);S01;P13_F_C5_Smartphone_S01.wav;
+P13;F;In the lab office;Smartphone (iPhone 11 Pro);S02;P13_F_C5_Smartphone_S02.wav;
+P13;F;In the lab office;Smartphone (iPhone 11 Pro);S03;P13_F_C5_Smartphone_S03.wav;
+P13;F;In the lab office;Smartphone (iPhone 11 Pro);S04;P13_F_C5_Smartphone_S04.wav;
+P13;F;In the lab office;Smartphone (iPhone 11 Pro);S05;P13_F_C5_Smartphone_S05.wav;
+P13;F;In front of MAR;Smartphone (iPhone 11 Pro);S01;P13_F_C6_Smartphone_S01.wav;
+P13;F;In front of MAR;Smartphone (iPhone 11 Pro);S02;P13_F_C6_Smartphone_S02.wav;
+P13;F;In front of MAR;Smartphone (iPhone 11 Pro);S03;P13_F_C6_Smartphone_S03.wav;
+P13;F;In front of MAR;Smartphone (iPhone 11 Pro);S04;P13_F_C6_Smartphone_S04.wav;
+P13;F;In front of MAR;Smartphone (iPhone 11 Pro);S05;P13_F_C6_Smartphone_S05.wav;
+P13;F;Campus;Smartphone (iPhone 11 Pro);S01;P13_F_C7_Smartphone_S01.wav;
+P13;F;Campus;Smartphone (iPhone 11 Pro);S02;P13_F_C7_Smartphone_S02.wav;
+P13;F;Campus;Smartphone (iPhone 11 Pro);S03;P13_F_C7_Smartphone_S03.wav;
+P13;F;Campus;Smartphone (iPhone 11 Pro);S04;P13_F_C7_Smartphone_S04.wav;
+P13;F;Campus;Smartphone (iPhone 11 Pro);S05;P13_F_C7_Smartphone_S05.wav;
+P13;F;U-Bhf;Smartphone (iPhone 11 Pro);S01;P13_F_C8_Smartphone_S01.wav;
+P13;F;U-Bhf;Smartphone (iPhone 11 Pro);S02;P13_F_C8_Smartphone_S02.wav;
+P13;F;U-Bhf;Smartphone (iPhone 11 Pro);S03;P13_F_C8_Smartphone_S03.wav;
+P13;F;U-Bhf;Smartphone (iPhone 11 Pro);S04;P13_F_C8_Smartphone_S04.wav;
+P13;F;U-Bhf;Smartphone (iPhone 11 Pro);S05;P13_F_C8_Smartphone_S05.wav;
+P13;F;Mensa;Smartphone (iPhone 11 Pro);S01;P13_F_C9_Smartphone_S01.wav;
+P13;F;Mensa;Smartphone (iPhone 11 Pro);S02;P13_F_C9_Smartphone_S02.wav;
+P13;F;Mensa;Smartphone (iPhone 11 Pro);S03;P13_F_C9_Smartphone_S03.wav;
+P13;F;Mensa;Smartphone (iPhone 11 Pro);S04;P13_F_C9_Smartphone_S04.wav;
+P13;F;Mensa;Smartphone (iPhone 11 Pro);S05;P13_F_C9_Smartphone_S05.wav;
+P14;F;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S01;P14_F_C1_Laptop_S01.wav;
+P14;F;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S02;P14_F_C1_Laptop_S02.wav;
+P14;F;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S03;P14_F_C1_Laptop_S03.wav;
+P14;F;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S04;P14_F_C1_Laptop_S04.wav;
+P14;F;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S05;P14_F_C1_Laptop_S05.wav;
+P14;F;In the lab TV noise;Smartphone (iPhone 11 Pro);S01;P14_F_C2_Smartphone_S01.wav;
+P14;F;In the lab TV noise;Smartphone (iPhone 11 Pro);S02;P14_F_C2_Smartphone_S02.wav;
+P14;F;In the lab TV noise;Smartphone (iPhone 11 Pro);S03;P14_F_C2_Smartphone_S03.wav;
+P14;F;In the lab TV noise;Smartphone (iPhone 11 Pro);S04;P14_F_C2_Smartphone_S04.wav;
+P14;F;In the lab TV noise;Smartphone (iPhone 11 Pro);S05;P14_F_C2_Smartphone_S05.wav;
+P14;F;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S01;P14_F_C3_Laptop_S01.wav;
+P14;F;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S02;P14_F_C3_Laptop_S02.wav;
+P14;F;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S03;P14_F_C3_Laptop_S03.wav;
+P14;F;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S04;P14_F_C3_Laptop_S04.wav;
+P14;F;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S05;P14_F_C3_Laptop_S05.wav;
+P14;F;In the lab open door;Smartphone (iPhone 11 Pro);S01;P14_F_C4_Smartphone_S01.wav;
+P14;F;In the lab open door;Smartphone (iPhone 11 Pro);S02;P14_F_C4_Smartphone_S02.wav;
+P14;F;In the lab open door;Smartphone (iPhone 11 Pro);S03;P14_F_C4_Smartphone_S03.wav;
+P14;F;In the lab open door;Smartphone (iPhone 11 Pro);S04;P14_F_C4_Smartphone_S04.wav;
+P14;F;In the lab open door;Smartphone (iPhone 11 Pro);S05;P14_F_C4_Smartphone_S05.wav;
+P14;F;In the lab office;Headset (Sennheiser PXC 550);S01;P14_F_C5_Headset_S01.wav;connected to smartphone
+P14;F;In the lab office;Headset (Sennheiser PXC 550);S02;P14_F_C5_Headset_S02.wav;connected to smartphone
+P14;F;In the lab office;Headset (Sennheiser PXC 550);S03;P14_F_C5_Headset_S03.wav;connected to smartphone
+P14;F;In the lab office;Headset (Sennheiser PXC 550);S04;P14_F_C5_Headset_S04.wav;connected to smartphone
+P14;F;In the lab office;Headset (Sennheiser PXC 550);S05;P14_F_C5_Headset_S05.wav;connected to smartphone
+P14;F;In front of MAR;Headset (Sennheiser PXC 550);S01;P14_F_C6_Headset_S01.wav;
+P14;F;In front of MAR;Headset (Sennheiser PXC 550);S02;P14_F_C6_Headset_S02.wav;
+P14;F;In front of MAR;Headset (Sennheiser PXC 550);S03;P14_F_C6_Headset_S03.wav;
+P14;F;In front of MAR;Headset (Sennheiser PXC 550);S04;P14_F_C6_Headset_S04.wav;
+P14;F;In front of MAR;Headset (Sennheiser PXC 550);S05;P14_F_C6_Headset_S05.wav;
+P14;F;Campus;Headset (Sennheiser PXC 550);S01;P14_F_C7_Headset_S01.wav;
+P14;F;Campus;Headset (Sennheiser PXC 550);S02;P14_F_C7_Headset_S02.wav;
+P14;F;Campus;Headset (Sennheiser PXC 550);S03;P14_F_C7_Headset_S03.wav;
+P14;F;Campus;Headset (Sennheiser PXC 550);S04;P14_F_C7_Headset_S04.wav;
+P14;F;Campus;Headset (Sennheiser PXC 550);S05;P14_F_C7_Headset_S05.wav;
+P14;F;U-Bhf;Smartphone (iPhone 11 Pro);S01;P14_F_C8_Smartphone_S01.wav;
+P14;F;U-Bhf;Smartphone (iPhone 11 Pro);S02;P14_F_C8_Smartphone_S02.wav;
+P14;F;U-Bhf;Smartphone (iPhone 11 Pro);S03;P14_F_C8_Smartphone_S03.wav;
+P14;F;U-Bhf;Smartphone (iPhone 11 Pro);S04;P14_F_C8_Smartphone_S04.wav;
+P14;F;U-Bhf;Smartphone (iPhone 11 Pro);S05;P14_F_C8_Smartphone_S05.wav;
+P14;F;Mensa;Headset (Sennheiser PXC 550);S01;P14_F_C9_Headset_S01.wav;
+P14;F;Mensa;Headset (Sennheiser PXC 550);S02;P14_F_C9_Headset_S02.wav;
+P14;F;Mensa;Headset (Sennheiser PXC 550);S03;P14_F_C9_Headset_S03.wav;
+P14;F;Mensa;Headset (Sennheiser PXC 550);S04;P14_F_C9_Headset_S04.wav;
+P14;F;Mensa;Headset (Sennheiser PXC 550);S05;P14_F_C9_Headset_S05.wav;
+P15;M;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S01;P15_M_C1_Smartphone_S01.wav;
+P15;M;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S02;P15_M_C1_Smartphone_S02.wav;
+P15;M;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S03;P15_M_C1_Smartphone_S03.wav;
+P15;M;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S04;P15_M_C1_Smartphone_S04.wav;
+P15;M;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S05;P15_M_C1_Smartphone_S05.wav;
+P15;M;In the lab TV noise;AirPods;S01;P15_M_C2_AirPods_S01.wav;connected to smartphone
+P15;M;In the lab TV noise;AirPods;S02;P15_M_C2_AirPods_S02.wav;connected to smartphone
+P15;M;In the lab TV noise;AirPods;S03;P15_M_C2_AirPods_S03.wav;connected to smartphone
+P15;M;In the lab TV noise;AirPods;S04;P15_M_C2_AirPods_S04.wav;connected to smartphone
+P15;M;In the lab TV noise;AirPods;S05;P15_M_C2_AirPods_S05.wav;connected to smartphone
+P15;M;In the lab open windows;Smartphone (iPhone 11 Pro);S01;P15_M_C3_Smartphone_S01.wav;
+P15;M;In the lab open windows;Smartphone (iPhone 11 Pro);S02;P15_M_C3_Smartphone_S02.wav;
+P15;M;In the lab open windows;Smartphone (iPhone 11 Pro);S03;P15_M_C3_Smartphone_S03.wav;
+P15;M;In the lab open windows;Smartphone (iPhone 11 Pro);S04;P15_M_C3_Smartphone_S04.wav;
+P15;M;In the lab open windows;Smartphone (iPhone 11 Pro);S05;P15_M_C3_Smartphone_S05.wav;
+P15;M;In the lab open door;Headset (Sennheiser PXC 550);S01;P15_M_C4_Headset_S01.wav;connected to smartphone
+P15;M;In the lab open door;Headset (Sennheiser PXC 550);S02;P15_M_C4_Headset_S02.wav;connected to smartphone
+P15;M;In the lab open door;Headset (Sennheiser PXC 550);S03;P15_M_C4_Headset_S03.wav;connected to smartphone
+P15;M;In the lab open door;Headset (Sennheiser PXC 550);S04;P15_M_C4_Headset_S04.wav;connected to smartphone
+P15;M;In the lab open door;Headset (Sennheiser PXC 550);S05;P15_M_C4_Headset_S05.wav;connected to smartphone
+P15;M;In the lab office;Headset (Sennheiser PXC 550);S01;P15_M_C5_Headset_S01.wav;connected to smartphone
+P15;M;In the lab office;Headset (Sennheiser PXC 550);S02;P15_M_C5_Headset_S02.wav;connected to smartphone
+P15;M;In the lab office;Headset (Sennheiser PXC 550);S03;P15_M_C5_Headset_S03.wav;connected to smartphone
+P15;M;In the lab office;Headset (Sennheiser PXC 550);S04;P15_M_C5_Headset_S04.wav;connected to smartphone
+P15;M;In the lab office;Headset (Sennheiser PXC 550);S05;P15_M_C5_Headset_S05.wav;connected to smartphone
+P15;M;In front of MAR;AirPods;S01;P15_M_C6_AirPods_S01.wav;
+P15;M;In front of MAR;AirPods;S02;P15_M_C6_AirPods_S02.wav;
+P15;M;In front of MAR;AirPods;S03;P15_M_C6_AirPods_S03.wav;
+P15;M;In front of MAR;AirPods;S04;P15_M_C6_AirPods_S04.wav;
+P15;M;In front of MAR;AirPods;S05;P15_M_C6_AirPods_S05.wav;
+P15;M;Campus;AirPods;S01;P15_M_C7_AirPods_S01.wav;
+P15;M;Campus;AirPods;S02;P15_M_C7_AirPods_S02.wav;
+P15;M;Campus;AirPods;S03;P15_M_C7_AirPods_S03.wav;
+P15;M;Campus;AirPods;S04;P15_M_C7_AirPods_S04.wav;
+P15;M;Campus;AirPods;S05;P15_M_C7_AirPods_S05.wav;
+P15;M;U-Bhf;AirPods;S01;P15_M_C8_AirPods_S01.wav;
+P15;M;U-Bhf;AirPods;S02;P15_M_C8_AirPods_S02.wav;
+P15;M;U-Bhf;AirPods;S03;P15_M_C8_AirPods_S03.wav;
+P15;M;U-Bhf;AirPods;S04;P15_M_C8_AirPods_S04.wav;
+P15;M;U-Bhf;AirPods;S05;P15_M_C8_AirPods_S05.wav;
+P15;M;Mensa;Smartphone (iPhone 11 Pro);S01;P15_M_C9_Smartphone_S01.wav;
+P15;M;Mensa;Smartphone (iPhone 11 Pro);S02;P15_M_C9_Smartphone_S02.wav;
+P15;M;Mensa;Smartphone (iPhone 11 Pro);S03;P15_M_C9_Smartphone_S03.wav;
+P15;M;Mensa;Smartphone (iPhone 11 Pro);S04;P15_M_C9_Smartphone_S04.wav;
+P15;M;Mensa;Smartphone (iPhone 11 Pro);S05;P15_M_C9_Smartphone_S05.wav;
+P16;F;In the lab doors/windows closed;Headset (Sennheiser PXC 550);S01;P16_F_C1_Headset_S01.wav;connected to smartphone
+P16;F;In the lab doors/windows closed;Headset (Sennheiser PXC 550);S02;P16_F_C1_Headset_S02.wav;connected to smartphone
+P16;F;In the lab doors/windows closed;Headset (Sennheiser PXC 550);S03;P16_F_C1_Headset_S03.wav;connected to smartphone
+P16;F;In the lab doors/windows closed;Headset (Sennheiser PXC 550);S04;P16_F_C1_Headset_S04.wav;connected to smartphone
+P16;F;In the lab doors/windows closed;Headset (Sennheiser PXC 550);S05;P16_F_C1_Headset_S05.wav;connected to smartphone
+P16;F;In the lab TV noise;Laptop (Lenovo ThinkPad X1 Carbon);S01;P16_F_C2_Laptop_S01.wav;
+P16;F;In the lab TV noise;Laptop (Lenovo ThinkPad X1 Carbon);S02;P16_F_C2_Laptop_S02.wav;
+P16;F;In the lab TV noise;Laptop (Lenovo ThinkPad X1 Carbon);S03;P16_F_C2_Laptop_S03.wav;
+P16;F;In the lab TV noise;Laptop (Lenovo ThinkPad X1 Carbon);S04;P16_F_C2_Laptop_S04.wav;
+P16;F;In the lab TV noise;Laptop (Lenovo ThinkPad X1 Carbon);S05;P16_F_C2_Laptop_S05.wav;
+P16;F;In the lab open windows;Smartphone (iPhone 11 Pro);S01;P16_F_C3_Smartphone_S01.wav;
+P16;F;In the lab open windows;Smartphone (iPhone 11 Pro);S02;P16_F_C3_Smartphone_S02.wav;
+P16;F;In the lab open windows;Smartphone (iPhone 11 Pro);S03;P16_F_C3_Smartphone_S03.wav;
+P16;F;In the lab open windows;Smartphone (iPhone 11 Pro);S04;P16_F_C3_Smartphone_S04.wav;
+P16;F;In the lab open windows;Smartphone (iPhone 11 Pro);S05;P16_F_C3_Smartphone_S05.wav;
+P16;F;In the lab open door;Smartphone (iPhone 11 Pro);S01;P16_F_C4_Smartphone_S01.wav;
+P16;F;In the lab open door;Smartphone (iPhone 11 Pro);S02;P16_F_C4_Smartphone_S02.wav;
+P16;F;In the lab open door;Smartphone (iPhone 11 Pro);S03;P16_F_C4_Smartphone_S03.wav;
+P16;F;In the lab open door;Smartphone (iPhone 11 Pro);S04;P16_F_C4_Smartphone_S04.wav;
+P16;F;In the lab open door;Smartphone (iPhone 11 Pro);S05;P16_F_C4_Smartphone_S05.wav;
+P16;F;In the lab office;Headset (Sennheiser PXC 550);S01;P16_F_C5_Headset_S01.wav;connected to smartphone
+P16;F;In the lab office;Headset (Sennheiser PXC 550);S02;P16_F_C5_Headset_S02.wav;connected to smartphone
+P16;F;In the lab office;Headset (Sennheiser PXC 550);S03;P16_F_C5_Headset_S03.wav;connected to smartphone
+P16;F;In the lab office;Headset (Sennheiser PXC 550);S04;P16_F_C5_Headset_S04.wav;connected to smartphone
+P16;F;In the lab office;Headset (Sennheiser PXC 550);S05;P16_F_C5_Headset_S05.wav;connected to smartphone
+P16;F;In front of MAR;Smartphone (iPhone 11 Pro);S01;P16_F_C6_Smartphone_S01.wav;
+P16;F;In front of MAR;Smartphone (iPhone 11 Pro);S02;P16_F_C6_Smartphone_S02.wav;
+P16;F;In front of MAR;Smartphone (iPhone 11 Pro);S03;P16_F_C6_Smartphone_S03.wav;
+P16;F;In front of MAR;Smartphone (iPhone 11 Pro);S04;P16_F_C6_Smartphone_S04.wav;
+P16;F;In front of MAR;Smartphone (iPhone 11 Pro);S05;P16_F_C6_Smartphone_S05.wav;
+P16;F;Campus;Headset (Sennheiser PXC 550);S01;P16_F_C7_Headset_S01.wav;
+P16;F;Campus;Headset (Sennheiser PXC 550);S02;P16_F_C7_Headset_S02.wav;
+P16;F;Campus;Headset (Sennheiser PXC 550);S03;P16_F_C7_Headset_S03.wav;
+P16;F;Campus;Headset (Sennheiser PXC 550);S04;P16_F_C7_Headset_S04.wav;
+P16;F;Campus;Headset (Sennheiser PXC 550);S05;P16_F_C7_Headset_S05.wav;
+P16;F;U-Bhf;Smartphone (iPhone 11 Pro);S01;P16_F_C8_Smartphone_S01.wav;
+P16;F;U-Bhf;Smartphone (iPhone 11 Pro);S02;P16_F_C8_Smartphone_S02.wav;
+P16;F;U-Bhf;Smartphone (iPhone 11 Pro);S03;P16_F_C8_Smartphone_S03.wav;
+P16;F;U-Bhf;Smartphone (iPhone 11 Pro);S04;P16_F_C8_Smartphone_S04.wav;
+P16;F;U-Bhf;Smartphone (iPhone 11 Pro);S05;P16_F_C8_Smartphone_S05.wav;
+P16;F;Mensa;Headset (Sennheiser PXC 550);S01;P16_F_C9_Headset_S01.wav;
+P16;F;Mensa;Headset (Sennheiser PXC 550);S02;P16_F_C9_Headset_S02.wav;
+P16;F;Mensa;Headset (Sennheiser PXC 550);S03;P16_F_C9_Headset_S03.wav;
+P16;F;Mensa;Headset (Sennheiser PXC 550);S04;P16_F_C9_Headset_S04.wav;
+P16;F;Mensa;Headset (Sennheiser PXC 550);S05;P16_F_C9_Headset_S05.wav;
+P17;F;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S01;P17_F_C1_Smartphone_S01.wav;
+P17;F;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S02;P17_F_C1_Smartphone_S02.wav;
+P17;F;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S03;P17_F_C1_Smartphone_S03.wav;
+P17;F;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S04;P17_F_C1_Smartphone_S04.wav;
+P17;F;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S05;P17_F_C1_Smartphone_S05.wav;
+P17;F;In the lab TV noise;Headset (Sennheiser PXC 550);S01;P17_F_C2_Headset_S01.wav;connected to smartphone
+P17;F;In the lab TV noise;Headset (Sennheiser PXC 550);S02;P17_F_C2_Headset_S02.wav;connected to smartphone
+P17;F;In the lab TV noise;Headset (Sennheiser PXC 550);S03;P17_F_C2_Headset_S03.wav;connected to smartphone
+P17;F;In the lab TV noise;Headset (Sennheiser PXC 550);S04;P17_F_C2_Headset_S04.wav;connected to smartphone
+P17;F;In the lab TV noise;Headset (Sennheiser PXC 550);S05;P17_F_C2_Headset_S05.wav;connected to smartphone
+P17;F;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S01;P17_F_C3_Laptop_S01.wav;
+P17;F;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S02;P17_F_C3_Laptop_S02.wav;
+P17;F;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S03;P17_F_C3_Laptop_S03.wav;
+P17;F;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S04;P17_F_C3_Laptop_S04.wav;
+P17;F;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S05;P17_F_C3_Laptop_S05.wav;
+P17;F;In the lab open door;Headset (Sennheiser PXC 550);S01;P17_F_C4_Headset_S01.wav;connected to smartphone
+P17;F;In the lab open door;Headset (Sennheiser PXC 550);S02;P17_F_C4_Headset_S02.wav;connected to smartphone
+P17;F;In the lab open door;Headset (Sennheiser PXC 550);S03;P17_F_C4_Headset_S03.wav;connected to smartphone
+P17;F;In the lab open door;Headset (Sennheiser PXC 550);S04;P17_F_C4_Headset_S04.wav;connected to smartphone
+P17;F;In the lab open door;Headset (Sennheiser PXC 550);S05;P17_F_C4_Headset_S05.wav;connected to smartphone
+P17;F;In the lab office;Laptop (Lenovo ThinkPad X1 Carbon);S01;P17_F_C5_Laptop_S01.wav;
+P17;F;In the lab office;Laptop (Lenovo ThinkPad X1 Carbon);S02;P17_F_C5_Laptop_S02.wav;
+P17;F;In the lab office;Laptop (Lenovo ThinkPad X1 Carbon);S03;P17_F_C5_Laptop_S03.wav;
+P17;F;In the lab office;Laptop (Lenovo ThinkPad X1 Carbon);S04;P17_F_C5_Laptop_S04.wav;
+P17;F;In the lab office;Laptop (Lenovo ThinkPad X1 Carbon);S05;P17_F_C5_Laptop_S05.wav;
+P17;F;In front of MAR;Headset (Sennheiser PXC 550);S01;P17_F_C6_Headset_S01.wav;
+P17;F;In front of MAR;Headset (Sennheiser PXC 550);S02;P17_F_C6_Headset_S02.wav;
+P17;F;In front of MAR;Headset (Sennheiser PXC 550);S03;P17_F_C6_Headset_S03.wav;
+P17;F;In front of MAR;Headset (Sennheiser PXC 550);S04;P17_F_C6_Headset_S04.wav;
+P17;F;In front of MAR;Headset (Sennheiser PXC 550);S05;P17_F_C6_Headset_S05.wav;
+P17;F;Campus;Headset (Sennheiser PXC 550);S01;P17_F_C7_Headset_S01.wav;
+P17;F;Campus;Headset (Sennheiser PXC 550);S02;P17_F_C7_Headset_S02.wav;
+P17;F;Campus;Headset (Sennheiser PXC 550);S03;P17_F_C7_Headset_S03.wav;
+P17;F;Campus;Headset (Sennheiser PXC 550);S04;P17_F_C7_Headset_S04.wav;
+P17;F;Campus;Headset (Sennheiser PXC 550);S05;P17_F_C7_Headset_S05.wav;
+P17;F;U-Bhf;Headset (Sennheiser PXC 550);S01;P17_F_C8_Headset_S01.wav;
+P17;F;U-Bhf;Headset (Sennheiser PXC 550);S02;P17_F_C8_Headset_S02.wav;
+P17;F;U-Bhf;Headset (Sennheiser PXC 550);S03;P17_F_C8_Headset_S03.wav;
+P17;F;U-Bhf;Headset (Sennheiser PXC 550);S04;P17_F_C8_Headset_S04.wav;
+P17;F;U-Bhf;Headset (Sennheiser PXC 550);S05;P17_F_C8_Headset_S05.wav;
+P17;F;Mensa;Headset (Sennheiser PXC 550);S01;P17_F_C9_Headset_S01.wav;
+P17;F;Mensa;Headset (Sennheiser PXC 550);S02;P17_F_C9_Headset_S02.wav;
+P17;F;Mensa;Headset (Sennheiser PXC 550);S03;P17_F_C9_Headset_S03.wav;
+P17;F;Mensa;Headset (Sennheiser PXC 550);S04;P17_F_C9_Headset_S04.wav;
+P17;F;Mensa;Headset (Sennheiser PXC 550);S05;P17_F_C9_Headset_S05.wav;
+P18;M;In the lab doors/windows closed;Headset (Sennheiser PXC 550);S01;P18_M_C1_Headset_S01.wav;connected to smartphone
+P18;M;In the lab doors/windows closed;Headset (Sennheiser PXC 550);S02;P18_M_C1_Headset_S02.wav;connected to smartphone
+P18;M;In the lab doors/windows closed;Headset (Sennheiser PXC 550);S03;P18_M_C1_Headset_S03.wav;connected to smartphone
+P18;M;In the lab doors/windows closed;Headset (Sennheiser PXC 550);S04;P18_M_C1_Headset_S04.wav;connected to smartphone
+P18;M;In the lab doors/windows closed;Headset (Sennheiser PXC 550);S05;P18_M_C1_Headset_S05.wav;connected to smartphone
+P18;M;In the lab TV noise;Laptop (Lenovo ThinkPad X1 Carbon);S01;P18_M_C2_Laptop_S01.wav;
+P18;M;In the lab TV noise;Laptop (Lenovo ThinkPad X1 Carbon);S02;P18_M_C2_Laptop_S02.wav;
+P18;M;In the lab TV noise;Laptop (Lenovo ThinkPad X1 Carbon);S03;P18_M_C2_Laptop_S03.wav;
+P18;M;In the lab TV noise;Laptop (Lenovo ThinkPad X1 Carbon);S04;P18_M_C2_Laptop_S04.wav;
+P18;M;In the lab TV noise;Laptop (Lenovo ThinkPad X1 Carbon);S05;P18_M_C2_Laptop_S05.wav;
+P18;M;In the lab open windows;Headset (Sennheiser PXC 550);S01;P18_M_C3_Headset_S01.wav;connected to smartphone
+P18;M;In the lab open windows;Headset (Sennheiser PXC 550);S02;P18_M_C3_Headset_S02.wav;connected to smartphone
+P18;M;In the lab open windows;Headset (Sennheiser PXC 550);S03;P18_M_C3_Headset_S03.wav;connected to smartphone
+P18;M;In the lab open windows;Headset (Sennheiser PXC 550);S04;P18_M_C3_Headset_S04.wav;connected to smartphone
+P18;M;In the lab open windows;Headset (Sennheiser PXC 550);S05;P18_M_C3_Headset_S05.wav;connected to smartphone
+P18;M;In the lab open door;Headset (Sennheiser PXC 550);S01;P18_M_C4_Headset_S01.wav;connected to smartphone
+P18;M;In the lab open door;Headset (Sennheiser PXC 550);S02;P18_M_C4_Headset_S02.wav;connected to smartphone
+P18;M;In the lab open door;Headset (Sennheiser PXC 550);S03;P18_M_C4_Headset_S03.wav;connected to smartphone
+P18;M;In the lab open door;Headset (Sennheiser PXC 550);S04;P18_M_C4_Headset_S04.wav;connected to smartphone
+P18;M;In the lab open door;Headset (Sennheiser PXC 550);S05;P18_M_C4_Headset_S05.wav;connected to smartphone
+P18;M;In the lab office;AirPods;S01;P18_M_C5_AirPods_S01.wav;connected to smartphone
+P18;M;In the lab office;AirPods;S02;P18_M_C5_AirPods_S02.wav;connected to smartphone
+P18;M;In the lab office;AirPods;S03;P18_M_C5_AirPods_S03.wav;connected to smartphone
+P18;M;In the lab office;AirPods;S04;P18_M_C5_AirPods_S04.wav;connected to smartphone
+P18;M;In the lab office;AirPods;S05;P18_M_C5_AirPods_S05.wav;connected to smartphone
+P18;M;In front of MAR;AirPods;S01;P18_M_C6_AirPods_S01.wav;
+P18;M;In front of MAR;AirPods;S02;P18_M_C6_AirPods_S02.wav;
+P18;M;In front of MAR;AirPods;S03;P18_M_C6_AirPods_S03.wav;
+P18;M;In front of MAR;AirPods;S04;P18_M_C6_AirPods_S04.wav;
+P18;M;In front of MAR;AirPods;S05;P18_M_C6_AirPods_S05.wav;
+P18;M;Campus;Smartphone (iPhone 11 Pro);S01;P18_M_C7_Smartphone_S01.wav;
+P18;M;Campus;Smartphone (iPhone 11 Pro);S02;P18_M_C7_Smartphone_S02.wav;
+P18;M;Campus;Smartphone (iPhone 11 Pro);S03;P18_M_C7_Smartphone_S03.wav;
+P18;M;Campus;Smartphone (iPhone 11 Pro);S04;P18_M_C7_Smartphone_S04.wav;
+P18;M;Campus;Smartphone (iPhone 11 Pro);S05;P18_M_C7_Smartphone_S05.wav;
+P18;M;U-Bhf;Headset (Sennheiser PXC 550);S01;P18_M_C8_Headset_S01.wav;
+P18;M;U-Bhf;Headset (Sennheiser PXC 550);S02;P18_M_C8_Headset_S02.wav;
+P18;M;U-Bhf;Headset (Sennheiser PXC 550);S03;P18_M_C8_Headset_S03.wav;
+P18;M;U-Bhf;Headset (Sennheiser PXC 550);S04;P18_M_C8_Headset_S04.wav;
+P18;M;U-Bhf;Headset (Sennheiser PXC 550);S05;P18_M_C8_Headset_S05.wav;
+P18;M;Mensa;Headset (Sennheiser PXC 550);S01;P18_M_C9_Headset_S01.wav;
+P18;M;Mensa;Headset (Sennheiser PXC 550);S02;P18_M_C9_Headset_S02.wav;
+P18;M;Mensa;Headset (Sennheiser PXC 550);S03;P18_M_C9_Headset_S03.wav;
+P18;M;Mensa;Headset (Sennheiser PXC 550);S04;P18_M_C9_Headset_S04.wav;
+P18;M;Mensa;Headset (Sennheiser PXC 550);S05;P18_M_C9_Headset_S05.wav;
+P19;M;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S01;P19_M_C1_Laptop_S01.wav;
+P19;M;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S02;P19_M_C1_Laptop_S02.wav;
+P19;M;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S03;P19_M_C1_Laptop_S03.wav;
+P19;M;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S04;P19_M_C1_Laptop_S04.wav;
+P19;M;In the lab doors/windows closed;Laptop (Lenovo ThinkPad X1 Carbon);S05;P19_M_C1_Laptop_S05.wav;
+P19;M;In the lab TV noise;Smartphone (iPhone 11 Pro);S01;P19_M_C2_Smartphone_S01.wav;
+P19;M;In the lab TV noise;Smartphone (iPhone 11 Pro);S02;P19_M_C2_Smartphone_S02.wav;
+P19;M;In the lab TV noise;Smartphone (iPhone 11 Pro);S03;P19_M_C2_Smartphone_S03.wav;
+P19;M;In the lab TV noise;Smartphone (iPhone 11 Pro);S04;P19_M_C2_Smartphone_S04.wav;
+P19;M;In the lab TV noise;Smartphone (iPhone 11 Pro);S05;P19_M_C2_Smartphone_S05.wav;
+P19;M;In the lab open windows;AirPods;S01;P19_M_C3_AirPods_S01.wav;connected to smartphone
+P19;M;In the lab open windows;AirPods;S02;P19_M_C3_AirPods_S02.wav;connected to smartphone
+P19;M;In the lab open windows;AirPods;S03;P19_M_C3_AirPods_S03.wav;connected to smartphone
+P19;M;In the lab open windows;AirPods;S04;P19_M_C3_AirPods_S04.wav;connected to smartphone
+P19;M;In the lab open windows;AirPods;S05;P19_M_C3_AirPods_S05.wav;connected to smartphone
+P19;M;In the lab open door;Laptop (Lenovo ThinkPad X1 Carbon);S01;P19_M_C4_Laptop_S01.wav;
+P19;M;In the lab open door;Laptop (Lenovo ThinkPad X1 Carbon);S02;P19_M_C4_Laptop_S02.wav;
+P19;M;In the lab open door;Laptop (Lenovo ThinkPad X1 Carbon);S03;P19_M_C4_Laptop_S03.wav;
+P19;M;In the lab open door;Laptop (Lenovo ThinkPad X1 Carbon);S04;P19_M_C4_Laptop_S04.wav;
+P19;M;In the lab open door;Laptop (Lenovo ThinkPad X1 Carbon);S05;P19_M_C4_Laptop_S05.wav;
+P19;M;In the lab office;Smartphone (iPhone 11 Pro);S01;P19_M_C5_Smartphone_S01.wav;
+P19;M;In the lab office;Smartphone (iPhone 11 Pro);S02;P19_M_C5_Smartphone_S02.wav;
+P19;M;In the lab office;Smartphone (iPhone 11 Pro);S03;P19_M_C5_Smartphone_S03.wav;
+P19;M;In the lab office;Smartphone (iPhone 11 Pro);S04;P19_M_C5_Smartphone_S04.wav;
+P19;M;In the lab office;Smartphone (iPhone 11 Pro);S05;P19_M_C5_Smartphone_S05.wav;
+P19;M;In front of MAR;Smartphone (iPhone 11 Pro);S01;P19_M_C6_Smartphone_S01.wav;rain_noise 
+P19;M;In front of MAR;Smartphone (iPhone 11 Pro);S02;P19_M_C6_Smartphone_S02.wav;rain_noise 
+P19;M;In front of MAR;Smartphone (iPhone 11 Pro);S03;P19_M_C6_Smartphone_S03.wav;rain_noise 
+P19;M;In front of MAR;Smartphone (iPhone 11 Pro);S04;P19_M_C6_Smartphone_S04.wav;rain_noise 
+P19;M;In front of MAR;Smartphone (iPhone 11 Pro);S05;P19_M_C6_Smartphone_S05.wav;rain_noise 
+P19;M;Campus;Smartphone (iPhone 11 Pro);S01;P19_M_C7_Smartphone_S01.wav;rain_noise 
+P19;M;Campus;Smartphone (iPhone 11 Pro);S02;P19_M_C7_Smartphone_S02.wav;rain_noise 
+P19;M;Campus;Smartphone (iPhone 11 Pro);S03;P19_M_C7_Smartphone_S03.wav;rain_noise 
+P19;M;Campus;Smartphone (iPhone 11 Pro);S04;P19_M_C7_Smartphone_S04.wav;rain_noise 
+P19;M;Campus;Smartphone (iPhone 11 Pro);S05;P19_M_C7_Smartphone_S05.wav;rain_noise 
+P19;M;U-Bhf;Smartphone (iPhone 11 Pro);S01;P19_M_C8_Smartphone_S01.wav;
+P19;M;U-Bhf;Smartphone (iPhone 11 Pro);S02;P19_M_C8_Smartphone_S02.wav;
+P19;M;U-Bhf;Smartphone (iPhone 11 Pro);S03;P19_M_C8_Smartphone_S03.wav;
+P19;M;U-Bhf;Smartphone (iPhone 11 Pro);S04;P19_M_C8_Smartphone_S04.wav;
+P19;M;U-Bhf;Smartphone (iPhone 11 Pro);S05;P19_M_C8_Smartphone_S05.wav;
+P19;M;Mensa;Smartphone (iPhone 11 Pro);S01;P19_M_C9_Smartphone_S01.wav;
+P19;M;Mensa;Smartphone (iPhone 11 Pro);S02;P19_M_C9_Smartphone_S02.wav;
+P19;M;Mensa;Smartphone (iPhone 11 Pro);S03;P19_M_C9_Smartphone_S03.wav;
+P19;M;Mensa;Smartphone (iPhone 11 Pro);S04;P19_M_C9_Smartphone_S04.wav;
+P19;M;Mensa;Smartphone (iPhone 11 Pro);S05;P19_M_C9_Smartphone_S05.wav;
+P20;M;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S01;P20_M_C1_Smartphone_S01.wav;
+P20;M;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S02;P20_M_C1_Smartphone_S02.wav;
+P20;M;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S03;P20_M_C1_Smartphone_S03.wav;
+P20;M;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S04;P20_M_C1_Smartphone_S04.wav;
+P20;M;In the lab doors/windows closed;Smartphone (iPhone 11 Pro);S05;P20_M_C1_Smartphone_S05.wav;
+P20;M;In the lab TV noise;Headset (Sennheiser PXC 550);S01;P20_M_C2_Headset_S01.wav;connected to smartphone
+P20;M;In the lab TV noise;Headset (Sennheiser PXC 550);S02;P20_M_C2_Headset_S02.wav;connected to smartphone
+P20;M;In the lab TV noise;Headset (Sennheiser PXC 550);S03;P20_M_C2_Headset_S03.wav;connected to smartphone
+P20;M;In the lab TV noise;Headset (Sennheiser PXC 550);S04;P20_M_C2_Headset_S04.wav;connected to smartphone
+P20;M;In the lab TV noise;Headset (Sennheiser PXC 550);S05;P20_M_C2_Headset_S05.wav;connected to smartphone
+P20;M;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S01;P20_M_C3_Laptop_S01.wav;
+P20;M;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S02;P20_M_C3_Laptop_S02.wav;
+P20;M;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S03;P20_M_C3_Laptop_S03.wav;
+P20;M;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S04;P20_M_C3_Laptop_S04.wav;
+P20;M;In the lab open windows;Laptop (Lenovo ThinkPad X1 Carbon);S05;P20_M_C3_Laptop_S05.wav;
+P20;M;In the lab open door;Smartphone (iPhone 11 Pro);S01;P20_M_C4_Smartphone_S01.wav;
+P20;M;In the lab open door;Smartphone (iPhone 11 Pro);S02;P20_M_C4_Smartphone_S02.wav;
+P20;M;In the lab open door;Smartphone (iPhone 11 Pro);S03;P20_M_C4_Smartphone_S03.wav;
+P20;M;In the lab open door;Smartphone (iPhone 11 Pro);S04;P20_M_C4_Smartphone_S04.wav;
+P20;M;In the lab open door;Smartphone (iPhone 11 Pro);S05;P20_M_C4_Smartphone_S05.wav;
+P20;M;In the lab office;Headset (Sennheiser PXC 550);S01;P20_M_C5_Headset_S01.wav;connected to smartphone
+P20;M;In the lab office;Headset (Sennheiser PXC 550);S02;P20_M_C5_Headset_S02.wav;connected to smartphone
+P20;M;In the lab office;Headset (Sennheiser PXC 550);S03;P20_M_C5_Headset_S03.wav;connected to smartphone
+P20;M;In the lab office;Headset (Sennheiser PXC 550);S04;P20_M_C5_Headset_S04.wav;connected to smartphone
+P20;M;In the lab office;Headset (Sennheiser PXC 550);S05;P20_M_C5_Headset_S05.wav;connected to smartphone
+P20;M;In front of MAR;Headset (Sennheiser PXC 550);S01;P20_M_C6_Headset_S01.wav;rain_noise 
+P20;M;In front of MAR;Headset (Sennheiser PXC 550);S02;P20_M_C6_Headset_S02.wav;rain_noise 
+P20;M;In front of MAR;Headset (Sennheiser PXC 550);S03;P20_M_C6_Headset_S03.wav;rain_noise 
+P20;M;In front of MAR;Headset (Sennheiser PXC 550);S04;P20_M_C6_Headset_S04.wav;rain_noise 
+P20;M;In front of MAR;Headset (Sennheiser PXC 550);S05;P20_M_C6_Headset_S05.wav;rain_noise 
+P20;M;Campus;Headset (Sennheiser PXC 550);S01;P20_M_C7_Headset_S01.wav;rain_noise 
+P20;M;Campus;Headset (Sennheiser PXC 550);S02;P20_M_C7_Headset_S02.wav;rain_noise 
+P20;M;Campus;Headset (Sennheiser PXC 550);S03;P20_M_C7_Headset_S03.wav;rain_noise 
+P20;M;Campus;Headset (Sennheiser PXC 550);S04;P20_M_C7_Headset_S04.wav;rain_noise 
+P20;M;Campus;Headset (Sennheiser PXC 550);S05;P20_M_C7_Headset_S05.wav;rain_noise 
+P20;M;U-Bhf;Headset (Sennheiser PXC 550);S01;P20_M_C8_Headset_S01.wav;
+P20;M;U-Bhf;Headset (Sennheiser PXC 550);S02;P20_M_C8_Headset_S02.wav;
+P20;M;U-Bhf;Headset (Sennheiser PXC 550);S03;P20_M_C8_Headset_S03.wav;
+P20;M;U-Bhf;Headset (Sennheiser PXC 550);S04;P20_M_C8_Headset_S04.wav;
+P20;M;U-Bhf;Headset (Sennheiser PXC 550);S05;P20_M_C8_Headset_S05.wav;
+P20;M;Mensa;Smartphone (iPhone 11 Pro);S01;P20_M_C9_Smartphone_S01.wav;
+P20;M;Mensa;Smartphone (iPhone 11 Pro);S02;P20_M_C9_Smartphone_S02.wav;
+P20;M;Mensa;Smartphone (iPhone 11 Pro);S03;P20_M_C9_Smartphone_S03.wav;
+P20;M;Mensa;Smartphone (iPhone 11 Pro);S04;P20_M_C9_Smartphone_S04.wav;
+P20;M;Mensa;Smartphone (iPhone 11 Pro);S05;P20_M_C9_Smartphone_S05.wav;
