@@ -1,3 +1,9 @@
+"""
+    Parts of this code were developed with the assistance of OpenAI's GPT model (ChatGPT, GPT-5).
+    The author verified and adapted all generated code to ensure correctness and suitability for this study.
+
+"""
+
 import P56_VAD as VAD
 import librosa
 import numpy as np
